@@ -1,3 +1,9 @@
+---
+layout: page
+title: Projects
+subtitle: both as a Computer Scientists and Programmer
+---
+
 This page contains some projects regarding both my research duties and my personal interests.
 During my PhD Courses, I was involved in other projects, such as:
 
