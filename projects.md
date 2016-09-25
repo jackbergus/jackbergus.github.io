@@ -9,7 +9,7 @@ During my PhD Courses, I was involved in other projects, such as:
 
    * [DISeASE](http://github.com/jackbergus/DISeASE): Implementing The Watson Project from scratch for ICD-9-CM codes recognition (feat. *Alexander Pollok*) 
 
-## Student Projects
+# Student Projects
 
 As a Graduate (G) and Undergraduate (U) student, I developped the following code:
 
@@ -22,7 +22,7 @@ As a Graduate (G) and Undergraduate (U) student, I developped the following code
      
 
 
-## Code Snippets
+# Code Snippets
 
 I wrote a lot of very short projects. Those are:
 
