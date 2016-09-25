@@ -10,7 +10,6 @@ During my PhD Courses, I was involved in other projects, such as:
    * [DISeASE](http://github.com/jackbergus/DISeASE): Implementing The Watson Project from scratch for ICD-9-CM codes recognition (feat. *Alexander Pollok*) 
 
 # Student Projects
-
 As a Graduate (G) and Undergraduate (U) student, I developped the following code:
 
    * (G) A [Jason](http://jason.sourceforge.net/)'s [extension](https://drive.google.com/file/d/0B15ik0F3-2nGS0trUWh3a1dYdVU/edit) showing the occurring communications between the agents, using [GraphStream](http://graphstream-project.org/) (feat. *Giulio Biagini* and *Gianluca Iselli*). With the same group I coded an [Omnet++ simulation](https://www.dropbox.com/s/jtj1qvxrn2zsvev/Gruppo-Bergami-Biagini-Iselli.tar.gz) implementing a P2P algorithm, using C++11 and GraphBoost Library
@@ -19,10 +18,9 @@ As a Graduate (G) and Undergraduate (U) student, I developped the following code
    * (U) [UMView with Guardian Angels](https://dl.dropboxusercontent.com/u/3529117/pxmview.tar.gz): an implenentation of the “Guardian Angels” technique inside the UMView SystemCall Virtual Machine. [More details](http://www.cs.unibo.it/~renzo/vsd/angels_n_taxi) (feat. *Gianluca Iselli* and *Matteo Martelli*)
    * (U) [Orthopediatrics](https://github.com/FMP196/Orthopediatrics): an undergraduate project for the Software Engineering course. It uses Easier Java Persistence (EJP) for persistence issues. (feat. *Fabian Priftaj*, *Matej Torok* and *Paolo de Luca*)
    * (U) [Proxy miniHTTP/miniHTML with prefetching](https://dl.dropboxusercontent.com/u/3529117/last.zip): an implementation of a multithreaded sytstem for caching purposes with time-validity checking.
-     
 
 
-# Code Snippets
+# Code Snippets
 
 I wrote a lot of very short projects. Those are:
 
