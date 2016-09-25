@@ -21,6 +21,7 @@ As a Graduate (G) and Undergraduate (U) student, I developped the following code
    * (U) [Proxy miniHTTP/miniHTML with prefetching](https://dl.dropboxusercontent.com/u/3529117/last.zip): an implementation of a multithreaded sytstem for caching purposes with time-validity checking.
      
 
+
 ## Code Snippets
 
 I wrote a lot of very short projects. Those are:
