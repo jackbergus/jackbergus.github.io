@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-subtitle: both as a Computer Scientists and Programmer
+subtitle: both as a Computer Scientist and a Programmer
 ---
 
 This page contains some projects regarding both my research duties and my personal interests.
