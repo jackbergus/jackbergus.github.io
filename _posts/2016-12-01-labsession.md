@@ -30,3 +30,8 @@ Now we're ready to kill all the processes and to completely remove MySQL (some t
     sudo rm -rf /Library/Receipts/MySQL*
     sudo rm -rf /private/var/db/receipts/*mysql*
 
+# Accessing RBDMSs through OO Languages
+
+## Using a Persitency Framework in Java.  
+        1. [Tutorial](https://github.com/jackbergus/javahibernateexample)
+        2. Madhusudhan Konda: *Just Hibernate* O’Reilly Media. [Online book](https://www.safaribooksonline.com/library/view/just-hibernate/9781449334369/)
