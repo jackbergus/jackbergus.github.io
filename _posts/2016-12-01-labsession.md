@@ -4,9 +4,8 @@ title: Databases 2016 – 1st December
 tags: teaching
 ---
 
-# How to setup your computer for the project
-This tutorial is going to guide you throughout the setup of your workspace. First, we're going to see how to install the MySQL RDBMS
-
+# Installing MySQL
+This tutorial is going to guide you throughout the setup of your workspace. First, we're going to see how to install the MySQL RDBMS in your preferred OS. This is going to be the only part that is OS dependent.
 
 ## Mac OS
 For this tutorial we're going to use the **brew** package manager. The reason behind this is that we want to deal with a system that can be easily updated (we do not want to have different versions of the same db). So, you must first be sure that brew is actually installed in your Mac. Please visit the website [brew.sh](brew.sh) and follow the instructions. 
@@ -29,9 +28,25 @@ Now we're ready to kill all the processes and to completely remove MySQL (some t
     sudo rm -rf /Library/Receipts/mysql*
     sudo rm -rf /Library/Receipts/MySQL*
     sudo rm -rf /private/var/db/receipts/*mysql*
+    
+Now you can install MySQL by just running the following command:
+
+    sudo brew install mysql
+    
+The default user is called `root`. In order to change its password and remove unsafe settings, call the following command:
+
+    mysql_secure_installation
+    
+If the root user already has a password, then change the aforementioned command to `mysql_secure_installation -p` and then type the password. Now MySQL could be accessed by typing the following command:
+
+    mysql -u root -p
+    
+If you ignored the `mysql_secure_installation` setup, then just type `mysql -u root`.
+
+## Linux
 
 # Accessing RBDMSs through OO Languages
 
 ## Using a Persitency Framework in Java.  
-        1. [Tutorial](https://github.com/jackbergus/javahibernateexample)
-        2. Madhusudhan Konda: *Just Hibernate* O’Reilly Media. [Online book](https://www.safaribooksonline.com/library/view/just-hibernate/9781449334369/)
+   1. [Tutorial](https://github.com/jackbergus/javahibernateexample)
+   2. Madhusudhan Konda: *Just Hibernate* O’Reilly Media. [Online book](https://www.safaribooksonline.com/library/view/just-hibernate/9781449334369/)
