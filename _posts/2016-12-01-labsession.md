@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Databases 2016 – The Lab Sessions – How to setup your computer for the project
+title: Databases 2016 – 1st December
 tags: teaching
 ---
 
-# TODO
+# How to setup your computer for the project
+     TODO
