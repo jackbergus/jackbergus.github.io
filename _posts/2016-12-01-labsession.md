@@ -49,9 +49,31 @@ Now MySQL could be accessed by typing the following command:
 
     mysql -u root -p
     
-If you ignored the `mysql_secure_installation` setup, then just type `mysql -u root`.
+If you ignored the `mysql_secure_installation` setup, then just type `mysql -u root`. Please remember that new users and passwords could be set using some default commands. 
 
 ## Linux
+
+# Set up a default database 
+
+In this tutorial we're going to use the mysql test database provided at https://github.com/datacharmer/test_db. Please not that, since now you setted a password, the default command is changed to:
+
+    mysql -u root -p < employees_partitioned.sql
+    
+Now we have to check if the procedure went smoothly. In order to do so, enter the MySql client:
+
+    mysql -u root -p 
+
+then we can see all the databases currently listed:
+
+    > show DATABASES;
+    
+our database is called `employees`. So now you have to type:
+
+    > use employees;
+
+now you can list all the tables inside this database by typing:
+
+    > show tables;
 
 # Accessing RBDMSs through OO Languages
 
