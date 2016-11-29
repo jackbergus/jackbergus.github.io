@@ -37,7 +37,15 @@ The default user is called `root`. In order to change its password and remove un
 
     mysql_secure_installation
     
-If the root user already has a password, then change the aforementioned command to `mysql_secure_installation -p` and then type the password. Now MySQL could be accessed by typing the following command:
+If the root user already has a password, then change the aforementioned command to `mysql_secure_installation -p` and then type the password. Now, depending on your OS setup, there could be some problems:
+
+* If there are any pw problems, then probably the install setted automatically setted the password that is given in `/Users/<yourusername>/.mysql_secret`. Use that password
+* If mysql cannot read the tmp lock file, this probably means that you did not start the server. In order to do so please type:
+
+      brew services start mysql
+
+
+Now MySQL could be accessed by typing the following command:
 
     mysql -u root -p
     
