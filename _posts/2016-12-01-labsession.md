@@ -51,7 +51,15 @@ Now MySQL could be accessed by typing the following command:
     
 If you ignored the `mysql_secure_installation` setup, then just type `mysql -u root`. Please remember that new users and passwords could be set using some default commands. 
 
-## Linux
+## GNU/Linux
+
+For GNU/Linux systems you have to install both the mysql server (the actual database) and the client (the client where to send the SQL queries via terminal). 
+
+    sudo apt-get install mysql-server mysql-client
+
+By doing so, the system will automatically ask you the password of choice.
+
+![Italian screen for password setup](http://jackbergus.alwaysdata.net/1.png)
 
 # Set up a default database 
 
@@ -76,6 +84,41 @@ now you can list all the tables inside this database by typing:
     > show tables;
 
 # Accessing RBDMSs through OO Languages
+
+## JDBC
+
+Each DB framework uses JDBC as a common interface for accessing to the relational database. This means that you must add the MySQL driver for the database
+
+    <dependency>
+        <groupId>org.clojure</groupId>
+        <artifactId>java.jdbc</artifactId>
+        <version>0.6.1</version>
+    </dependency>
+    <dependency>
+         <groupId>mysql</groupId>
+         <artifactId>mysql-connector-java</artifactId>
+         <version>6.0.5</version>
+     </dependency>
+
+## jOOQ
+
+Now create a Maven project with your favourite IDE, and add the following dependencies for your database. 
+
+    <dependency>
+      <groupId>org.jooq</groupId>
+      <artifactId>jooq</artifactId>
+      <version>3.8.6</version>
+    </dependency>
+    <dependency>
+      <groupId>org.jooq</groupId>
+      <artifactId>jooq-meta</artifactId>
+      <version>3.8.6</version>
+    </dependency>
+    <dependency>
+      <groupId>org.jooq</groupId>
+      <artifactId>jooq-codegen</artifactId>
+      <version>3.8.6</version>
+    </dependency>
 
 ## Using a Persitency Framework in Java.  
    1. [Tutorial](https://github.com/jackbergus/javahibernateexample)
