@@ -13,6 +13,7 @@ For this tutorial we're going to use the **brew** package manager. The reason be
 Now we're ready to kill all the processes and to completely remove MySQL (some traces could be left behind!).
 
     #!/bin/bash
+    brew services stop mysql
     sudo killall mysql
     sudo killall mysql
     brew remove mysql
@@ -31,7 +32,7 @@ Now we're ready to kill all the processes and to completely remove MySQL (some t
     
 Now you can install MySQL by just running the following command:
 
-    sudo brew install mysql
+    brew install mysql
     
 The default user is called `root`. In order to change its password and remove unsafe settings, call the following command:
 
