@@ -83,6 +83,8 @@ now you can list all the tables inside this database by typing:
 
     > show tables;
 
+We can see each table schema with the command `describe`.
+
 # Accessing RBDMSs through OO Languages
 
 ## JDBC
