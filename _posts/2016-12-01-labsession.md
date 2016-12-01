@@ -4,6 +4,8 @@ title: Databases 2016 – 1st December
 tags: teaching
 ---
 
+{:toc}
+
 # Installing MySQL
 This tutorial is going to guide you throughout the setup of your workspace. First, we're going to see how to install the MySQL RDBMS in your preferred OS. This is going to be the only part that is OS dependent.
 
@@ -33,7 +35,11 @@ Now we're ready to kill all the processes and to completely remove MySQL (some t
 Now you can install MySQL by just running the following command:
 
     brew install mysql
-    
+
+First, we must start `mysql` as a service. This is done by the following `brew` command:
+
+      brew services start mysql
+
 The default user is called `root`. In order to change its password and remove unsafe settings, call the following command:
 
     mysql_secure_installation
@@ -41,10 +47,7 @@ The default user is called `root`. In order to change its password and remove un
 If the root user already has a password, then change the aforementioned command to `mysql_secure_installation -p` and then type the password. Now, depending on your OS setup, there could be some problems:
 
 * If there are any pw problems, then probably the install setted automatically setted the password that is given in `/Users/<yourusername>/.mysql_secret`. Use that password
-* If mysql cannot read the tmp lock file, this probably means that you did not start the server. In order to do so please type:
-
-      brew services start mysql
-
+* If mysql cannot read the tmp lock file, this probably means that you did not start the server. Check if the start-service command went smoothly.
 
 Now MySQL could be accessed by typing the following command:
 
@@ -90,7 +93,7 @@ We can see each table schema with the command `describe`.
 
 ## JDBC
 
-Each DB framework uses JDBC as a common interface for accessing to the relational database. This means that you must add the MySQL driver for the database
+Each DB framework uses JDBC as a common interface for accessing to the relational database. This means that you must add the MySQL driver for the database:
 
     <dependency>
         <groupId>org.clojure</groupId>
@@ -102,6 +105,18 @@ Each DB framework uses JDBC as a common interface for accessing to the relationa
          <artifactId>mysql-connector-java</artifactId>
          <version>6.0.5</version>
      </dependency>
+
+By loading the MySQL driver, Maven automatically import the jar in your project and hence there is no need to load the driver by class name, `com.mysql.jdbc.Driver`. This means that we can directly access to the database with the following Syntax:
+
+     String dburl = "jdbc:mysql://localhost/<dbname>"
+     /* The transaction starts here. This is an AutoCloseable object, and hence the close semantics automatically closes the connection and commits */
+     try (Connection transaction = DriverManager.getConnection(Parameters.DB_URL,Parameters.USER,Parameters.PASS)) {
+        /* Put some code in here */
+     } catch (SQLException e) {
+        /* The transaction aborts. Do something in your code */
+     }
+     
+Within the next subsections 
 
 ## jOOQ
 
