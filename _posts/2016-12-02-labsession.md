@@ -156,8 +156,8 @@ At this point, if we want to insert some values into the database, we have to:
 2. Define a SQL query in order to avoid the SQL Injection (use `PrepareStatement` instead of `ExecuteQuery`)
 3. Define batch insertions (`addBatch`): since single transactions do not support limitless object insertions, from time to time you must push all the values to the database (`executeBatch`).
 
-       {% highlight java %}
-       try (Connection t = DriverManager.getConnection(dburl,user,pwd)) {
+        {% highlight java %}
+        try (Connection t = DriverManager.getConnection(dburl,user,pwd)) {
             // Defining the SQL Query
             String sql = = "insert into employees ( emp_no,  birth_date,  " +
                     "first_name,  last_name,  gender,  hire_date) values " +
@@ -188,7 +188,7 @@ At this point, if we want to insert some values into the database, we have to:
             ps.close(); //close the statement
 
         } /* … */
-       {% endhighlight %}
+        {% endhighlight %}
 
 ## jOOQ
 
