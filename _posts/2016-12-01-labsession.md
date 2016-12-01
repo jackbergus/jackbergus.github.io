@@ -140,5 +140,5 @@ Now create a Maven project with your favourite IDE, and add the following depend
     </dependency>
 
 ## Using a Persitency Framework in Java.  
-   1. [Tutorial](https://github.com/jackbergus/javahibernateexample)
+   1. [Tutorial](https://github.com/jackbergus/javahibernateexample/tree/master/hibernate_tutorial_2015)
    2. Madhusudhan Konda: *Just Hibernate* O’Reilly Media. [Online book](https://www.safaribooksonline.com/library/view/just-hibernate/9781449334369/)
