@@ -94,8 +94,9 @@ We can see each table schema with the command `describe`.
 
 ## JDBC
 
-Each DB framework uses JDBC as a common interface for accessing to the relational database. This means that you must add the MySQL driver for the database:
+Each DB framework uses JDBC as a common interface for accessing to the relational database. This means that you must add the MySQL driver for the database within your `pom.xml` file, alongside with the `jdbc` driver.
 
+    {% highlight xml %}
     <dependency>
         <groupId>org.clojure</groupId>
         <artifactId>java.jdbc</artifactId>
@@ -106,6 +107,7 @@ Each DB framework uses JDBC as a common interface for accessing to the relationa
          <artifactId>mysql-connector-java</artifactId>
          <version>6.0.5</version>
      </dependency>
+     {% endhighlight %}
 
 By loading the MySQL driver, Maven automatically import the jar in your project and hence there is no need to load the driver by class name, `com.mysql.jdbc.Driver`. This means that we can directly access to the database with the following Syntax:
 
@@ -129,6 +131,7 @@ Within the next subsections
 
 Now create a Maven project with your favourite IDE, and add the following dependencies for your database. 
 
+    {% highlight xml %}
     <dependency>
       <groupId>org.jooq</groupId>
       <artifactId>jooq</artifactId>
@@ -144,6 +147,7 @@ Now create a Maven project with your favourite IDE, and add the following depend
       <artifactId>jooq-codegen</artifactId>
       <version>3.8.6</version>
     </dependency>
+    {% endhighlight %}
 
 ## Using a Persitency Framework in Java.  
    1. [Tutorial](https://github.com/jackbergus/javahibernateexample/tree/master/hibernate_tutorial_2015)
