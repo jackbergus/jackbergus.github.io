@@ -4,6 +4,7 @@ title: Databases 2016 – 1st December
 tags: teaching
 ---
 
+* TOC
 {:toc}
 
 # Installing MySQL
