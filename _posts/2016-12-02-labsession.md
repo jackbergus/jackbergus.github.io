@@ -155,6 +155,7 @@ At this point, if we want to insert some values into the database, we have to:
 1. Create a POJO class in order to store the values in an ordered way (`JDBCEmployee`)
 2. Define a SQL query in order to avoid the SQL Injection (use `PrepareStatement` instead of `ExecuteQuery`)
 3. Define batch insertions (`addBatch`): since single transactions do not support limitless object insertions, from time to time you must push all the values to the database (`executeBatch`).
+4. We have to unpack the data information in order to populate the query with the default values.
 
         {% highlight java %}
         try (Connection t = DriverManager.getConnection(dburl,user,pwd)) {
@@ -190,6 +191,8 @@ At this point, if we want to insert some values into the database, we have to:
         } /* … */
         {% endhighlight %}
 
+
+
 ## jOOQ
 
 Now create a Maven project with your favourite IDE, and add the following dependencies for your database. 
@@ -210,6 +213,86 @@ Now create a Maven project with your favourite IDE, and add the following depend
       <artifactId>jooq-codegen</artifactId>
       <version>3.8.6</version>
     </dependency>
+    {% endhighlight %}
+
+At this point, we want to automatically generate the POJOs and the DAOs for our class and to automate the SQL query formulation in Java. By doing so, we have to integrate the `pom.xml` file with the `build` command stating: 
+
+1. Which database driver we're going to use, `com.mysql.jdbc.Driver`
+2. Which is the datbase URL, `jdbc:mysql://localhost/employees`.
+3. Set the database username and password.
+4. Choose as an `inputSchema` your MySQL database of choice, `employees`.
+5. Select the source folder within your project, `src/main/java`
+6. Specify the destination package, `it.giacomobergami.jOOQ.model`
+
+
+    {% highlight xml %}
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.jooq</groupId>
+                <artifactId>jooq-codegen-maven</artifactId>
+                <version>3.8.3</version>
+
+                <!-- The plugin should hook into the generate goal -->
+                <executions>
+                    <execution>
+                        <goals>
+                            <goal>generate</goal>
+                        </goals>
+                    </execution>
+                </executions>
+
+                <dependencies/>
+
+                <configuration>
+                    <jdbc>
+                        <driver>com.mysql.jdbc.Driver</driver>
+                        <url>jdbc:mysql://localhost/employees</url>
+                        <user>root</user>
+                        <password>password</password>
+                    </jdbc>
+
+                    <generator>
+                        <database>
+                            <name>org.jooq.util.mysql.MySQLDatabase</name>
+                            <includes>.*</includes>
+                            <excludes></excludes>
+                            <inputSchema>employees</inputSchema>
+                        </database>
+                        <target>
+                            <packageName>it.giacomobergami.jOOQ.model</packageName>
+                            <directory>src/main/java</directory>
+                        </target>
+                        <generate>
+                            <relations>true</relations>
+                            <deprecated>false</deprecated>
+                            <instanceFields>true</instanceFields>
+                            <generatedAnnotation>true</generatedAnnotation>
+                            <records>true</records>
+                            <pojos>true</pojos>
+                            <pojosEqualsAndHashCode>false</pojosEqualsAndHashCode>
+                            <immutablePojos>false</immutablePojos>
+                            <interfaces>false</interfaces>
+                            <daos>true</daos>
+                            <jpaAnnotations>false</jpaAnnotations>
+                            <validationAnnotations>false</validationAnnotations>
+                            <globalObjectReferences>true</globalObjectReferences>
+                            <fluentSetters>false</fluentSetters>
+                        </generate>
+                    </generator>
+                </configuration>
+            </plugin>
+
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <configuration>
+                    <source>1.8</source>
+                    <target>1.8</target>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
     {% endhighlight %}
 
 ## Using a Persitency Framework in Java.  
