@@ -150,6 +150,46 @@ Moreover, please note that by doing so you have to remember which are the correc
 
 ### INSERT 
 
+At this point, if we want to insert some values into the database, we have to:
+
+1. Create a POJO class in order to store the values in an ordered way (`JDBCEmployee`)
+2. Define a SQL query in order to avoid the SQL Injection (use `PrepareStatement` instead of `ExecuteQuery`)
+3. Define batch insertions (`addBatch`): since single transactions do not support limitless object insertions, from time to time you must push all the values to the database (`executeBatch`).
+
+       {% highlight java %}
+       try (Connection t = DriverManager.getConnection(dburl,user,pwd)) {
+            // Defining the SQL Query
+            String sql = = "insert into employees ( emp_no,  birth_date,  " +
+                    "first_name,  last_name,  gender,  hire_date) values " +
+                    "(?, ?, ?,?,?,?)";
+            // Prepare the statement to insert the elements
+            PreparedStatement ps = transaction.prepareStatement(sql);
+
+            final int batchSize = 1000;
+            int count = 0;
+
+            for (JDBCEmployee employee : employees) {
+                ps.setInt(1,employee.get_no);
+                ps.setDate(2,Java2SQLData.toSQLData(employee.birth_date));
+                ps.setString(3, employee.first_name);
+                ps.setString(4, employee.last_name);
+                ps.setString(5, employee.isFemale ? "F" : "M");
+                ps.setDate(6, Java2SQLData.toSQLData(employee.hire_date));
+                ps.addBatch();
+
+                //Sooner or later, the batch has to be emptied when too data 
+                // is sent.
+                if(++count % batchSize == 0) {
+                    //Send some data to the relational database.
+                    ps.executeBatch();
+                }
+            }
+
+            ps.close(); //close the statement
+
+        } /* … */
+       {% endhighlight %}
+
 ## jOOQ
 
 Now create a Maven project with your favourite IDE, and add the following dependencies for your database. 
