@@ -109,6 +109,7 @@ Each DB framework uses JDBC as a common interface for accessing to the relationa
 
 By loading the MySQL driver, Maven automatically import the jar in your project and hence there is no need to load the driver by class name, `com.mysql.jdbc.Driver`. This means that we can directly access to the database with the following Syntax:
 
+     {% highlight java %}
      String dburl = "jdbc:mysql://localhost/<dbname>"
      /* The transaction starts here. This is an AutoCloseable object, and hence the close semantics automatically closes the connection and commits */
      try (Connection transaction = DriverManager.getConnection(Parameters.DB_URL,Parameters.USER,Parameters.PASS)) {
@@ -116,6 +117,7 @@ By loading the MySQL driver, Maven automatically import the jar in your project 
      } catch (SQLException e) {
         /* The transaction aborts. Do something in your code */
      }
+     {% endhighlight %}
      
 Within the next subsections 
 
