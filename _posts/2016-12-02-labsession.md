@@ -225,8 +225,8 @@ At this point, we want to automatically generate the POJOs and the DAOs for our 
 6. Specify the destination package, `it.giacomobergami.jOOQ.model`
 
 
-    {% highlight xml %}
-    <build>
+     {% highlight xml %}
+     <build>
         <plugins>
             <plugin>
                 <groupId>org.jooq</groupId>
@@ -292,8 +292,8 @@ At this point, we want to automatically generate the POJOs and the DAOs for our 
                 </configuration>
             </plugin>
         </plugins>
-    </build>
-    {% endhighlight %}
+     </build>
+     {% endhighlight %}
 
 ## Using a Persitency Framework in Java.  
    1. [Tutorial](https://github.com/jackbergus/javahibernateexample/tree/master/hibernate_tutorial_2015)
