@@ -115,7 +115,7 @@ By loading the MySQL driver, Maven automatically import the jar in your project 
      String dburl = "jdbc:mysql://localhost/<dbname>";
      String user = "username";
      String pwd = "password";
-     /* The transaction starts here. This is an AutoCloseable object, 
+     /* The transaction starts here. t is an AutoCloseable object, 
      and hence the close semantics automatically closes the connection 
      and commits */
      try (Connection t = DriverManager.getConnection(dburl,user,pwd)) {
@@ -124,8 +124,31 @@ By loading the MySQL driver, Maven automatically import the jar in your project 
         /* The transaction aborts. Do something in your code */
      }
      {% endhighlight %}
+
+
+Within the next subsections we're going to see how to perform `SELECT` and `INSERT`  SQL queries.
+
+### SELECT
+
+A SQL statement has to be compiled from a string. The result set is scanned through a pointer which hasn't the standard Iterator java Syntax.
+
+
+     {% highlight java %}
+     try (Connection t = DriverManager.getConnection(dburl,user,pwd)) {
+        Statement stmt = t.createStatement();
+        ResultSet rs = stmt.executeQuery("select first_name, last_name from employees;");
+        while (rs.next()) {
+            String first = rs.getString("first_name");
+            String last = rs.getString("last_name");
+            /* do something */
+        }
+     } /* … */
+     {% endhighlight %}
      
-Within the next subsections 
+Moreover, please note that by doing so you have to remember which are the correct types for each attribute and the JDBC methods do not reflect the actual attributes' names. Moreover, the same information (the attribute name) is repeated more than once. All these aspects are quite problematics when queries are the result of join operations involving more than one table. Moreover, any SQL query could be prone to SQL injection.
+
+
+### INSERT 
 
 ## jOOQ
 
