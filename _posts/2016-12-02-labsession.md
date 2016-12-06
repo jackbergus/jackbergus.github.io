@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Databases 2016 – 1st December
+title: Databases 2016 – 2st December
 tags: teaching
 ---
 
@@ -182,9 +182,11 @@ At this point, if we want to insert some values into the database, we have to:
                 // is sent.
                 if(++count % batchSize == 0) {
                     //Send some data to the relational database.
+                    count = 0;
                     ps.executeBatch();
                 }
             }
+            if (count != 0) ps.executeBatch();
 
             ps.close(); //close the statement
 
