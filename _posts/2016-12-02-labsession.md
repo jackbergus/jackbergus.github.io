@@ -4,6 +4,8 @@ title: Databases 2016 – 2st December
 tags: teaching
 ---
 
+[Youtube Video](https://www.youtube.com/watch?v=xkQNunagT2w)
+
 * TOC
 {:toc}
 
