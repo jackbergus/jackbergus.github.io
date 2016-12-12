@@ -5,7 +5,7 @@ tags: teaching
 ---
 
 
-{% youtube xkQNunagT2w %}
+{% youtube "https://www.youtube.com/watch?v=xkQNunagT2w" %}
 
 * TOC
 {:toc}
