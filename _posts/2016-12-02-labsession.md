@@ -4,8 +4,7 @@ title: Databases 2016 – 2st December
 tags: teaching
 ---
 
-
-{% youtube "https://www.youtube.com/watch?v=xkQNunagT2w" %}
+The whole lecture could be seen on YouTube via this link: https://www.youtube.com/watch?v=xkQNunagT2w
 
 * TOC
 {:toc}
