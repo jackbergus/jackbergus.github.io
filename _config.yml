@@ -24,8 +24,8 @@ description: Yet another Ph.D. student website
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Projects: "projects/"
-  Resources:
+  Resources & Papers:
+    - Projects: "projects/"
     - Papers: "papers/"
   Official Home: "https://www.unibo.it/sitoweb/giacomo.bergami2"
 
