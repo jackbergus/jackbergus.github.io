@@ -7,7 +7,9 @@ subtitle: both as a Computer Scientist and a Programmer
 This page contains some projects regarding both my research duties and my personal interests.
 During my PhD Courses, I was involved in other projects, such as:
 
+   * Contributing to the [Gradoop](http://www.gradoop.org) project with [my own fork](https://github.com/jackbergus/gradoop) for implementing some graph operators.
    * [DISeASE](http://github.com/jackbergus/DISeASE): Implementing The Watson Project from scratch for ICD-9-CM codes recognition (feat. *Alexander Pollok*) 
+   
 
 # Student Projects
 As a Graduate (G) and Undergraduate (U) student, I developped the following code:
