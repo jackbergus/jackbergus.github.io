@@ -7,7 +7,7 @@ subtitle: both as a Computer Scientist and a Programmer
 This page contains some projects regarding both my research duties and my personal interests.
 During my PhD Courses, I was involved in other projects, such as:
 
-   * As a visiting student at the Universität Leipzig, I contribute to the FOSS [Gradoop](http://www.gradoop.org) project with [my own fork](https://github.com/jackbergus/gradoop). I'll implement some graph operators.
+   * As a visiting Ph.D. student at the Universität Leipzig, I contribute to the FOSS [Gradoop](http://www.gradoop.org) project with [my own fork](https://github.com/jackbergus/gradoop). I'll implement some graph operators.
    * [DISeASE](http://github.com/jackbergus/DISeASE): Implementing The Watson Project from scratch for ICD-9-CM codes recognition (feat. *Alexander Pollok*) 
    
 
