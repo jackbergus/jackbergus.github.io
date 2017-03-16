@@ -6,7 +6,7 @@ subtitle: List of published papers
 
 # 2017
 * **G. Bergami**, M. Magnani, D. Montesi. “A Join Operator for Property Graphs”. To appear in Proceedings of Sixth International Workshop on Querying Graph Structured Data, Venice, Italy, March 2017 (GraphQ 2017), 8 pages. 
-   * [PrePrint](http://jackbergus.alwaysdata.net/paper_graph_graphq2017.pdf)
+   * [PrePrint](http://ceur-ws.org/Vol-1810/GraphQ_paper_04.pdf)
    * [Web App](http://jackbergus.alwaysdata.net/joinapp/)
 
 # 2016
