@@ -5,7 +5,7 @@ subtitle: List of published papers
 ---
 
 # 2017
-* **G. Bergami**, M. Magnani, D. Montesi. “[A Join Operator for Property Graphs](http://ceur-ws.org/Vol-1810/GraphQ_paper_04.pdf)”. Proceedings of Sixth International Workshop on Querying Graph Structured Data, Venice, Italy, March 2017 (GraphQ 2017). ([Web App](http://jackbergus.alwaysdata.net/joinapp/),[Slides](https://www.slideshare.net/jackbergus/a-join-operator-for-property-graphs))
+* **G. Bergami**, M. Magnani, D. Montesi. “[A Join Operator for Property Graphs](http://ceur-ws.org/Vol-1810/GraphQ_paper_04.pdf)”. Proceedings of Sixth International Workshop on Querying Graph Structured Data, Venice, Italy, March 2017 (GraphQ 2017). ([Web App](http://jackbergus.alwaysdata.net/joinapp/), [Slides](https://www.slideshare.net/jackbergus/a-join-operator-for-property-graphs))
 
 # 2016
 * **G. Bergami**, M. Magnani, D. Montesi. 2016. “[On Joining Graphs](https://arxiv.org/abs/1608.05594)”. CoRR abs/1608.05594 (2016).
