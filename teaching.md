@@ -9,3 +9,7 @@ subtitle: Teaching courses
 * Complements of Databases, 2015 (Prof. Montesi)
   * [Business Intelligence for the 
 Data Scientist](https://jackbergus.alwaysdata.net/DWTUT15.pdf) - A tutorial on Data Warehouses
+
+# Unused Teaching Material
+
+* [Data Analysis](https://jackbergus.github.io/teaching/dataanalysis/), for a *Complements of Databases* course
