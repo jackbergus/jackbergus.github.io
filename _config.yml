@@ -25,6 +25,7 @@ description: Yet another Ph.D. student website
 navbar-links:
   About Me: "aboutme"
   Resources & Papers:
+    - Teaching Assistant Duties: "teaching/"
     - Projects: "projects/"
     - Papers: "papers/"
     - My Photos: "http://jackbergus.alwaysdata.net/cgi-bin/hello.py?path=/home/jackbergus/www/photos"
