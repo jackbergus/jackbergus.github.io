@@ -1,13 +1,16 @@
 ---
 layout: post
-title: Web Programming Lab 2017 (prof. Ferretti) – The Lab Sessions
+title: Web Programming Lab 2017 – The Lab Sessions
 tags: teaching
 ---
+
+# Lecturer: prof. Ferretti
+## Lab Sessions
 
 0. Introduction: how to use the labs
    * Short Guide
    * Introduction
-1. Designing Classes
+X. Designing Classes
    * An example of [state driven programming](https://github.com/jackbergus/LucenePdfIndexer) (CSS theory is required)
 
 Main References:
