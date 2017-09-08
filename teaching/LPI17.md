@@ -7,9 +7,12 @@ tags: teaching
 # Lecturer: prof. Ferretti
 ## Lab Sessions
 
-0. Introduction: how to use the labs
-   * Short Guide
-   * Introduction
+0. Introductory Lesson
+   * [How to use your lab? (IT)](https://github.com/jackbergus/LPI07/raw/master/Lesson00/LabRuleBook.pdf)
+   * [Introduction to Compilers, Interpreters, and Programs (IT)](https://github.com/jackbergus/LPI07/raw/master/Lesson00/00Compilers.pdf)
+   * [Programs](https://github.com/jackbergus/LPI07/tree/master/Lession00) for the zero lesson, and some [introductory slides](https://github.com/jackbergus/LPI07/raw/master/Lesson00/ex00.pdf).
+1. ***TODO***
+   
 X. Designing Classes
    * An example of [state driven programming](https://github.com/jackbergus/LucenePdfIndexer) (CSS theory is required)
 
