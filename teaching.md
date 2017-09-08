@@ -7,8 +7,8 @@ subtitle: Teaching courses
 # As a Teaching Assistant
 * [Web Programming Lab, 2017 (Prof. ferretti)](https://jackbergus.github.io/teaching/LPI17)
   * *Topics*: ***TODO***
-* [Databases, 2017 (Prof. Montesi)](https://jackbergus.github.io/teaching/BD16#2017)
-* [Databases, 2016 (Prof. Montesi)](https://jackbergus.github.io/teaching/BD16#2016)
+* [Databases, 2017 (Prof. Montesi)](https://jackbergus.github.io/teaching/BD#lab-sessions-2017)
+* [Databases, 2016 (Prof. Montesi)](https://jackbergus.github.io/teaching/BD#lab-sessions-2016)
   * *Topics*: Relational Algebra,  SQL query language. DBMS Architecture: Query Plans, B+ Trees, Hashing, Transactions. Conceptual Data Modelling. RDBMS vs. Querying and Programming Languages.
 * Complements of Databases, 2015 (Prof. Montesi)
   * [Business Intelligence for the 
