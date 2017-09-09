@@ -5,7 +5,7 @@ subtitle: Teaching courses
 ---
 
 # As a Teaching Assistant
-* [Web Programming Lab, 2017 (Prof. ferretti)](https://jackbergus.github.io/teaching/LPI17)
+* [Web Programming Lab, 2017 (Prof. Ferretti)](https://jackbergus.github.io/teaching/LPI17)
   * *Topics*: ***TODO***
 * [Databases, 2017 (Prof. Montesi)](https://jackbergus.github.io/teaching/BD#lab-sessions-2017)
 * [Databases, 2016 (Prof. Montesi)](https://jackbergus.github.io/teaching/BD#lab-sessions-2016)
