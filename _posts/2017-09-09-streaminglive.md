@@ -4,8 +4,9 @@ title: How to stream live your desktop
 tags: dyi
 ---
 
-This brief post will tell ya how to create a live stream. First, you must have ffmpeg installed in your local computer, where the stream is going to originate. 
-Then, on a remote computer that will provide the streaming, you must [install node.js](https://github.com/nodesource/distributions#debinstall) and then clone the [jsmpeg repository](https://github.com/phoboslab/jsmpeg).
+This brief post will tell ya how to create a live stream and to make it available to any user that has a web browser. This is possible since you can always convert a mpeg stream into a WebSocket streaming. 
+
+First, you must have ffmpeg installed in your local computer, where the stream is going to originate. Then, on a remote computer that will provide the streaming, you must [install node.js](https://github.com/nodesource/distributions#debinstall) and then clone the [jsmpeg repository](https://github.com/phoboslab/jsmpeg).
 At this step, you must edit line 86 from `websocket-relay.js` as follows:
 
      }).listen(STREAM_PORT, 'my.remote.ip.address');
@@ -24,6 +25,6 @@ At this point, you can start streaming from your local computer towards your str
                 -s 800x654 -b:v 1000k -bf 0 \
                 http://my.remote.ip.address:8081/<yourpw>
 
-The streaming will be available via browser as follows:
+Finally, your streaming will be available via browser as follows:
 
      http://my.remote.ip.address:8080/view-stream.html
