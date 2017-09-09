@@ -1,7 +1,7 @@
 ---
 layout: post
-title: How to stream live your desktop
-tags: dyi
+title: How to embed a ScreenCast into a Web Page through Node.js
+tags: dyi, nodejs, ffmpeg, streaming
 ---
 
 This brief post will tell ya how to create a live stream and to make it available to any user that has a web browser. This is possible since you can always redirect a mpeg stream into a WebSocket, and then show the content in a web page via JavaScript thanks to WebGL and Canvas2D renderers. 
