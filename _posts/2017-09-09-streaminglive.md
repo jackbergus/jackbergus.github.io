@@ -4,7 +4,7 @@ title: How to stream live your desktop
 tags: dyi
 ---
 
-This brief post will tell ya how to create a live stream and to make it available to any user that has a web browser. This is possible since you can always convert a mpeg stream into a WebSocket streaming. 
+This brief post will tell ya how to create a live stream and to make it available to any user that has a web browser. This is possible since you can always redirect a mpeg stream into a WebSocket, and then show the content in a web page via JavaScript thanks to WebGL and Canvas2D renderers. 
 
 First, you must have ffmpeg installed in your local computer, where the stream is going to originate. Then, on a remote computer that will provide the streaming, you must [install node.js](https://github.com/nodesource/distributions#debinstall) and then clone the [jsmpeg repository](https://github.com/phoboslab/jsmpeg).
 At this step, you must edit line 86 from `websocket-relay.js` as follows:
