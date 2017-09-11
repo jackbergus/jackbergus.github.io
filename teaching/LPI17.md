@@ -5,11 +5,11 @@ tags: teaching
 ---
 
 # Lecturer: prof. Ferretti
-## Lab Sessions
+## [Lab Sessions, 2017](#2017)
 
 Live streams will be provided as a best effort service at the following web page: [http://130.136.143.13:8080/view-stream.html](http://130.136.143.13:8080/view-stream.html)
 
-0. Introductory Lesson
+*  2017/10/10: *Introductory Lesson*
    * [How to use your lab? (IT)](https://github.com/jackbergus/LPI07/raw/master/Lesson00/LabRuleBook.pdf)
    * [Introduction to Compilers, Interpreters, and Programs (IT)](https://github.com/jackbergus/LPI07/raw/master/Lesson00/00Compilers.pdf)
    * [Programs](https://github.com/jackbergus/LPI07/tree/master/Lession00) for the zero lesson, and some [introductory slides](https://github.com/jackbergus/LPI07/raw/master/Lesson00/ex00.pdf).
