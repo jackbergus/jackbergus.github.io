@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Databases 2016 – The Lab Sessions
+title: Databases – The Lab Sessions
 tags: teaching
 ---
 
