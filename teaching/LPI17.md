@@ -11,9 +11,9 @@ Live streams will be provided as a best effort service at the following web page
 
 *  2017/10/10: *Introductory Lesson*
    * [How to use your lab? (IT)](https://github.com/jackbergus/LPI07/raw/master/Lesson00/LabRuleBook.pdf)
-   * [Introduction to Compilers, Interpreters, and Programs (IT)](https://github.com/jackbergus/LPI07/raw/master/Lesson00/00Compilers.pdf)
    * [Programs](https://github.com/jackbergus/LPI07/tree/master/Lession00) for the zero lesson, and some [introductory slides](https://github.com/jackbergus/LPI07/raw/master/Lesson00/ex00.pdf).
-1. ***TODO***
+   * Additional advanced notes: [Introduction to Compilers, Interpreters, and Programs (IT)](https://github.com/jackbergus/LPI07/raw/master/Lesson00/00Compilers.pdf)
+ * ***TODO***
    
 X. Designing Classes
    * An example of [state driven programming](https://github.com/jackbergus/LucenePdfIndexer) (CSS theory is required)
