@@ -19,6 +19,9 @@ Live streams will be provided as a best effort service at the following web page
 
  * 2017/10/10: *Introductory Lesson*
      * [Introduction to Compilers, Interpreters, and Programs (IT)](https://github.com/jackbergus/LPI07/raw/master/Lesson00/00Compilers.pdf)
+  * 2017/10/24: *Main: Numerical Operations*
+     * [TODO]
+     
  * 2017/??/??: *Designing Classes*
    * An example of [state driven programming](https://github.com/jackbergus/LucenePdfIndexer) (CSS theory is required)
 
