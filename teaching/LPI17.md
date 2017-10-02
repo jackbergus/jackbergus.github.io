@@ -9,18 +9,17 @@ tags: teaching
 
 Live streams will be provided as a best effort service at the following web page: [http://130.136.143.13:8080/view-stream.html](http://130.136.143.13:8080/view-stream.html)
 
-*  2017/10/10: *Introductory Lesson*
+*  2017/10/10: *Introductory Lesson* [3H]
    * [How to use your lab? (IT)](https://github.com/jackbergus/LPI07/raw/master/Lesson00/LabRuleBook.pdf)
    * [Programs](https://github.com/jackbergus/LPI07/tree/master/Lession00) for the zero lesson, and some [introductory slides](https://github.com/jackbergus/LPI07/raw/master/Lesson00/ex00.pdf).
-   * Additional advanced notes: 
- * ***TODO***
+* 2017/10/24: *Main: Numerical Operations*
+     * [TODO]
+* ***TODO***
 
 ### Additional advanced notes
 
  * 2017/10/10: *Introductory Lesson*
      * [Introduction to Compilers, Interpreters, and Programs (IT)](https://github.com/jackbergus/LPI07/raw/master/Lesson00/00Compilers.pdf)
-  * 2017/10/24: *Main: Numerical Operations*
-     * [TODO]
      
  * 2017/??/??: *Designing Classes*
    * An example of [state driven programming](https://github.com/jackbergus/LucenePdfIndexer) (CSS theory is required)
