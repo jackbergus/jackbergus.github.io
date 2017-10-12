@@ -1,10 +1,9 @@
 ---
 layout: post
 title: Web Programming Lab 2017 – The Lab Sessions
+subtitle: Main Lecturer: prof. Ferretti
 tags: teaching
 ---
-
-# Lecturer: prof. Ferretti
 
 
 * TOC
