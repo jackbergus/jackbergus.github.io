@@ -34,7 +34,7 @@ Further references:
 * M. Felleisen et al. ["**How To Design Classes**"](http://www.ccs.neu.edu/home/matthias/HtDC/htdc.pdf)
 * H. Schildt. "**Java: The Complete Reference, Ninth Edition**" 
 
-### FAQ (IT)
+# FAQ (IT)
 
 #### Come create un file sorgente Java?
 Come editor di testo, le macchine di laboratorio supportano gedit, jedit, geany. Conseguentemente, per editare il codice sorgente che da genererà il programma (bytecode), può eseguire da terminale i seguenti comandi (in grassetto):
