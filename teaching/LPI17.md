@@ -1,15 +1,17 @@
 ---
 layout: post
 title: Web Programming Lab 2017 – The Lab Sessions
-subtitle: Main Lecturer: prof. Ferretti
 tags: teaching
 ---
 
+Main Lecturer: prof. Ferretti
 
 * TOC
 {:toc}
 
 ## [Lab Sessions, 2017](#2017)
+
+
 
 *  2017/10/10: *Introductory Lesson* [3H]
    * [How to use your lab? (IT)](https://github.com/jackbergus/LPI07/raw/master/Lesson00/LabRuleBook.pdf)
