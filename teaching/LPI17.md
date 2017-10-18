@@ -36,7 +36,12 @@ Further references:
 
 # FAQ (IT)
 
-#### Come create un file sorgente Java?
+#### Come faccio ad installare un programma?
+Molto probabilmente, la tua distribuzione Linux avrà solo `gedit` o `pluma` installati di default. Per installare gli altri editor, eseguire il comando di installazione: 
+ * `sudo apt-get install nomeprogramma`. Questo comando è eseguibile direttamente in alcune distribuzioni, quali Ubuntu, dove il tuo utente predifinito è già previsto come *[sudoer](https://wiki.archlinux.org/index.php/Sudo_(Italiano))*.
+ * Per altri sistemi operativi, si può o [aggiungere l'utente corrente](https://ubuntuforums.org/showthread.php?t=1132821) alla lista dei sudoer e poi proseguire con il comando di cui sopra, o diventare prima superutente con `su -` o `sudo su -`. 
+
+#### Come creare un file sorgente Java?
 Come editor di testo, le macchine di laboratorio supportano gedit, jedit, geany. Conseguentemente, per editare il codice sorgente che da genererà il programma (bytecode), può eseguire da terminale i seguenti comandi (in grassetto):
  * `gedit File.java`
  * `jedit File.java`
@@ -51,3 +56,10 @@ Dopo aver installato la Java JDK e JRE, "java si trova sotto forma" di due progr
 In questo corso vedremo solamente la creazione di programmi nonsituati all'interno di un `package`. Per eseguire un `main` di classe non contenuta in un package, è sufficiente indcare all'interprete (`java`) la classe da eseguire contenuta nella directory corrente nel seguente modo: `java NomeClasse`.
 
 Nel caso in cui la classe sia contenuta all'interno del package, bisognerà specificare il percorso completo della stessa classe all'interno del package: `java full.package.path.NomeClasse`.
+
+#### Sul mio computer l'editor di testo ha una visualizzazione differente rispetto a quella del computer del laboratorio. Come posso fare?
+L'interfaccia grafica in sè non è un problema. Differenti visualizzazioni possono essere dovute a differenti sistemi operativi, a differenti versioni del pacchetto installato o a differenti [window manager](https://it.wikipedia.org/wiki/Window_manager). L'unico scopo di un editor di testo è quello di produrre del testo, e di avere una comoda [colorazione della sintassi](https://it.wikipedia.org/wiki/Syntax_highlighting).
+
+![Prima visualizzazione di Gedit (GNU/Linux)](http://1.bp.blogspot.com/-5uhn4nSKk2I/UtbMnYOJHyI/AAAAAAABRiA/ysLOK2Di0w8/s1600/gedit4.png)
+![Seconda visualizzazione di Gedit (GNU/Linux)](https://d2.alternativeto.net/dist/s/5d440bae-e4cc-466b-861b-f4c6ec293baa_1_full.png)
+![Gedit su Windows.](https://cdn.forumer.it/gen_screenshots/it-IT/windows/gedit/large/gedit-02-657x535.png)
