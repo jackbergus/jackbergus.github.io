@@ -61,5 +61,5 @@ Nel caso in cui la classe sia contenuta all'interno del package, bisognerà spec
 L'interfaccia grafica in sè non è un problema. Differenti visualizzazioni possono essere dovute a differenti sistemi operativi, a differenti versioni del pacchetto installato o a differenti [window manager](https://it.wikipedia.org/wiki/Window_manager). L'unico scopo di un editor di testo è quello di produrre del testo, e di avere una comoda [colorazione della sintassi](https://it.wikipedia.org/wiki/Syntax_highlighting).
 
 ![Prima visualizzazione di Gedit (GNU/Linux)](http://1.bp.blogspot.com/-5uhn4nSKk2I/UtbMnYOJHyI/AAAAAAABRiA/ysLOK2Di0w8/s1600/gedit4.png)
-![Seconda visualizzazione di Gedit (GNU/Linux)](https://d2.alternativeto.net/dist/s/5d440bae-e4cc-466b-861b-f4c6ec293baa_1_full.png)
+![Seconda visualizzazione di Gedit (GNU/Linux)](https://d2.alternativeto.net/dist/s/5d440bae-e4cc-466b-861b-f4c6ec293baa_1_full.png?format=jpg&width=1600&height=1600&mode=min&upscale=falseg)
 ![Gedit su Windows.](https://cdn.forumer.it/gen_screenshots/it-IT/windows/gedit/large/gedit-02-657x535.png)
