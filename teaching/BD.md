@@ -7,27 +7,27 @@ tags: teaching
 # Lecturer: prof. Montesi
 ## [Lab Sessions, 2017](#2017)
 
-* 2017/10/20 – **Relational Algebra**. Q&A, Exercises
+According to this year's lessions plan, the part of installing a RDBMS and using Java as a programming language to perform ORM, will not be included. Please refer to [this](https://jackbergus.github.io/2016-12-02-labsession/) link for all the details!
+
+* 2017/10/20 – **Relational Algebra**. Exercises (1)
     * [Slides](https://drive.google.com/open?id=0B5EQQQtU0zzpaUlvTnF5RGdlYWs)
-* 2017/10/?? – SQL query language 
+* 2017/10/27 – Relational Algebra, Q&A (2). **SQL query language**
     * [Slides](https://drive.google.com/open?id=0B5EQQQtU0zzpOFNjVXRNQTI5V2s), [Additional Exercises](http://jackbergus.alwaysdata.net/DB2016_2017/EX02-bis.pdf)
     * Jan Van den Bussche, Stijn Vansummeren: *Translating SQL into the Relational Algebra*. [[report](http://cs.ulb.ac.be/public/_media/teaching/infoh417/sql2alg_eng.pdf), [slides](http://cs.ulb.ac.be/public/_media/teaching/infoh417/01_-_sql2alg-sol-slides.pdf)]
-* 2017/10/?? – DBMS Architecture: Query Plans
+    * Ulf Leser, Felix Naumann: *Informationsintegration* (DE). dpunkt.verlag. This book contains several ideas on how to use SQL syntax to perform data integration tasks.
+* 2017/11/03 – DBMS Architecture: Query Plans
     * [Slides](https://drive.google.com/open?id=0B5EQQQtU0zzpRC1yT1plb2RCWFk), [On Join Algorithms(*)](http://jackbergus.alwaysdata.net/DB2016_2017/EX03-bis.pdf)
     * Jens Dittrich – Patterns in Data Management [[Book](https://infosys.uni-saarland.de/datenbankenlernen/Patterns_In_Data_Management_Preview.pdf), [Slides+Video](https://www.youtube.com/user/jensdit/playlists?shelf_id=12&sort=dd&view=50)]
-* 2017/11/?? – DBMS Architecture: Indexing: B+ Trees – Part I
+* 2017/11/10 – DBMS Architecture: Indexing: B+ Trees – Part I
     * [Slides](https://drive.google.com/open?id=0B5EQQQtU0zzpbVZ3elFsLThyRFk)
-* 2017/11/?? – DBMS Architecture: Indexing: Hashing – Part II
+* 2017/11/17 – DBMS Architecture: Indexing: Hashing – Part II
     * [Slides](https://drive.google.com/open?id=0B5EQQQtU0zzpZmpqeXBrcFJSaHc)
-* 2017/11/?? – DBMS Architecture: Transactions
+* 2017/11/24 – DBMS Architecture: Transactions
     * [Slides](https://drive.google.com/open?id=0B5EQQQtU0zzpb0JibnRBOGdvd0k), [Exercises](http://jackbergus.alwaysdata.net/DB2016_2017/AdditionalTransaction_print.pdf)
-* 2017/11/?? – The Lab Sessions: Conceptual Data Modelling
+* 2017/12/01 – The Lab Sessions: Conceptual Data Modelling
     * [A project example (ITA)](http://jackbergus.alwaysdata.net/dbexample.pdf)
-* 2017/12/?? – The Lab Sessions: RDBMS vs. Querying and Programming Languages
-    * Please see [this](https://jackbergus.github.io/2016-12-02-labsession/) link for all the details!
-* **2016/12/??** – Final Exam: A Demo. Final Q&A
+* 2016/12/15 – Final Exam: A Demo. Final Q&A
     * Some examples [[1](https://drive.google.com/open?id=0B5EQQQtU0zzpcnltc1ZXX19vX2M), [2](http://jackbergus.alwaysdata.net/DB2016_2017/export/esame_20160113.pdf)]
-
 
 ## [Lab Sessions, 2016](#2016)
 
