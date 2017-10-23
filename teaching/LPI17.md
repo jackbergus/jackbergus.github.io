@@ -23,9 +23,12 @@ Main Lecturer: prof. Ferretti
 
  * 2017/10/10: *Introductory Lesson*
      * [Introduction to Compilers, Interpreters, and Programs (IT)](https://github.com/jackbergus/LPI07/raw/master/Lesson00/00Compilers.pdf)
-     
+ * 2017/10/24: 
+     * [What is integer overflow?](https://en.wikipedia.org/wiki/Integer_overflow)
+     * [What is parsing? (IT)](https://it.wikipedia.org/wiki/Parsing)
+     * What is a [pairing function](http://www.cs.upc.edu/~alvarez/calculabilitat/enumerabilitat.pdf) using the [dovetailing](https://en.wikipedia.org/wiki/Dovetailing_(computer_science)) technique?
  * 2017/??/??: *Designing Classes*
-   * An example of [state driven programming](https://github.com/jackbergus/LucenePdfIndexer) (CSS theory is required)
+     * An example of [state driven programming](https://github.com/jackbergus/LucenePdfIndexer) (CSS theory is required)
 
 Main References:
 * Walter Savitch. "**JAVA: An introduction to Problem Solving and Programming, 6th edition**". 2012, Pearson Education.
