@@ -13,11 +13,11 @@ Main Lecturer: prof. Ferretti
 
 
 
-*  2017/10/10: *Introductory Lesson* [3H]
+*  2017/10/10: *Introductory Lesson* [1,5H x2]
    * [How to use your lab? (IT)](https://github.com/jackbergus/LPI07/raw/master/Lesson00/LabRuleBook.pdf)
-   * [Programs](https://github.com/jackbergus/LPI07/tree/master/Lession00) for the zero lesson, and some [introductory slides](https://github.com/jackbergus/LPI07/raw/master/Lesson00/ex00.pdf).
-* 2017/10/24: *Main: Numerical Operations*
-     * [TODO]
+   * [Programs](https://github.com/jackbergus/LPI07/tree/master/Lesson00) for the zero lesson, and some [introductory slides](https://github.com/jackbergus/LPI07/raw/master/Lesson00/ex00.pdf).
+* 2017/10/24: *Native types, casts, String, Scanner from System.in, Math* [1,5H x2]
+   * Exercises [[EN](https://github.com/jackbergus/LPI07/raw/master/Lesson01/guide.pdf),[IT](https://github.com/jackbergus/LPI07/raw/master/Lesson01/guide_it.pdf)] and the [proposed solutions](https://github.com/jackbergus/LPI07/tree/master/Lesson01).
 
 ### Additional advanced notes
 
