@@ -11,7 +11,7 @@ Main Lecturer: prof. Ferretti
 
 ## [Lab Sessions, 2017](#2017)
 
-
+The screencast will be broadcasted live using [this]( http://130.136.143.13:8080/view-stream.html) web page.
 
 *  2017/10/10: *Introductory Lesson* [1,5H x2]
    * [How to use your lab? (IT)](https://github.com/jackbergus/LPI07/raw/master/Lesson00/LabRuleBook.pdf)
