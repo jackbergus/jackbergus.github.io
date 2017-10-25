@@ -17,7 +17,7 @@ The screencast will be broadcasted live using [this]( http://130.136.143.13:8080
    * [How to use your lab? (IT)](https://github.com/jackbergus/LPI07/raw/master/Lesson00/LabRuleBook.pdf)
    * [Programs](https://github.com/jackbergus/LPI07/tree/master/Lesson00) for the zero lesson, and some [introductory slides](https://github.com/jackbergus/LPI07/raw/master/Lesson00/ex00.pdf).
 * 2017/10/24: *Native types, casts, String, Scanner from System.in, Math* [1,5H x2]
-   * Exercises [[EN](https://github.com/jackbergus/LPI07/raw/master/Lesson01/guide.pdf),[IT](https://github.com/jackbergus/LPI07/raw/master/Lesson01/guide_it.pdf)] and the [proposed solutions](https://github.com/jackbergus/LPI07/tree/master/Lesson01). **NEW**, *I provided some additional exercises*.
+   * ![New](http://www.animatedgif.net/new/new10_e0.gif) Exercises [[EN](https://github.com/jackbergus/LPI07/raw/master/Lesson01/guide.pdf),[IT](https://github.com/jackbergus/LPI07/raw/master/Lesson01/guide_it.pdf)] and the [proposed solutions](https://github.com/jackbergus/LPI07/tree/master/Lesson01). *The exercises were extended from the last lesson*
 
 ### Additional advanced notes
 
