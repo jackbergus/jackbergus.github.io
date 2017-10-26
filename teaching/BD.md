@@ -17,12 +17,9 @@ According to this year's lessions plan, the part of installing a RDBMS and using
     * [Slides](https://drive.google.com/open?id=0B5EQQQtU0zzpOFNjVXRNQTI5V2s), [Additional Exercises](http://jackbergus.alwaysdata.net/DB2016_2017/EX02-bis.pdf)
     * [On Join Algorithms(*)](http://jackbergus.alwaysdata.net/DB2016_2017/EX03-bis.pdf)
     * Ulf Leser, Felix Naumann: *Informationsintegration* (DE). dpunkt.verlag. This book contains several ideas on how to use SQL syntax to perform data integration tasks.
-* 2017/11/10 – DBMS Architecture: Indexing: B+ Trees – Part I
-    * [Slides](https://drive.google.com/open?id=0B5EQQQtU0zzpbVZ3elFsLThyRFk)
-* 2017/11/17 – DBMS Architecture: Indexing: Hashing – Part II
-    * [Slides](https://drive.google.com/open?id=0B5EQQQtU0zzpZmpqeXBrcFJSaHc)
-* 2017/11/24 – DBMS Architecture: Transactions
-    * [Slides](https://drive.google.com/open?id=0B5EQQQtU0zzpb0JibnRBOGdvd0k), [Exercises](http://jackbergus.alwaysdata.net/DB2016_2017/AdditionalTransaction_print.pdf)
+* 2017/11/10 – DBMS Architecture: Indexing: B+ Trees – Part I ([Slides](https://drive.google.com/open?id=0B5EQQQtU0zzpbVZ3elFsLThyRFk))
+* 2017/11/17 – DBMS Architecture: Indexing: Hashing – Part II ([Slides](https://drive.google.com/open?id=0B5EQQQtU0zzpZmpqeXBrcFJSaHc))
+* 2017/11/24 – DBMS Architecture: Transactions ([Slides](https://drive.google.com/open?id=0B5EQQQtU0zzpb0JibnRBOGdvd0k), [Exercises](http://jackbergus.alwaysdata.net/DB2016_2017/AdditionalTransaction_print.pdf))
 * 2017/12/01 – The Lab Sessions: Conceptual Data Modelling
     * [A project example (ITA)](http://jackbergus.alwaysdata.net/dbexample.pdf)
 * 2016/12/15 – Final Exam: A Demo. Final Q&A
