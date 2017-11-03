@@ -11,15 +11,15 @@ According to this year's lessions plan, the part of installing a RDBMS and using
 
 * 2017/10/20 – **Relational Algebra** ([Slides](https://drive.google.com/open?id=0B5EQQQtU0zzpaUlvTnF5RGdlYWs))
 * 2017/10/27 – Several Topics:
-     1. Relational Algebra, [Additional Exercises (IT)](http://jackbergus.alwaysdata.net/DB2016_2017/Ex02_2017.pdf), Q&A. 
+     1. Relational Algebra: [Additional Exercises (IT)](http://jackbergus.alwaysdata.net/DB2016_2017/Ex02_2017.pdf), Q&A. 
      2. **DBMS Architecture - Query Plans** ([Slides](https://drive.google.com/open?id=0B5EQQQtU0zzpRC1yT1plb2RCWFk))
          * Jens Dittrich – Patterns in Data Management [[Book](https://infosys.uni-saarland.de/datenbankenlernen/Patterns_In_Data_Management_Preview.pdf), [Slides+Video](https://www.youtube.com/user/jensdit/playlists?shelf_id=12&sort=dd&view=50)]
          * Jan Van den Bussche, Stijn Vansummeren: *Translating SQL into the Relational Algebra*. [[report](http://cs.ulb.ac.be/public/_media/teaching/infoh417/sql2alg_eng.pdf), [slides](http://cs.ulb.ac.be/public/_media/teaching/infoh417/01_-_sql2alg-sol-slides.pdf)]
      3. **SQL-3 query language** ([Slides](https://drive.google.com/open?id=0B5EQQQtU0zzpOFNjVXRNQTI5V2s))
          * Ulf Leser, Felix Naumann: *Informationsintegration* (DE). dpunkt.verlag. This book contains several ideas on how to use SQL syntax to perform data integration tasks.
 * 2017/11/10 – 
-     1. SQL-3 query language [Additional Exercises](http://jackbergus.alwaysdata.net/DB2016_2017/EX02-bis.pdf) and [Join Algorithms](http://jackbergus.alwaysdata.net/DB2016_2017/EX03-bis.pdf)
-     2. DBMS Architecture: Indexing: B+ Trees – Part I ([Slides](https://drive.google.com/open?id=0B5EQQQtU0zzpbVZ3elFsLThyRFk))
+     1. SQL-3 query language: [Additional Exercises](http://jackbergus.alwaysdata.net/DB2016_2017/EX02-bis.pdf) and [Join Algorithms](http://jackbergus.alwaysdata.net/DB2016_2017/EX03-bis.pdf)
+     2. **DBMS Architecture: Indexing: B+ Trees** ([Slides](https://drive.google.com/open?id=0B5EQQQtU0zzpbVZ3elFsLThyRFk))
 * 2017/11/17 – DBMS Architecture: Indexing: Hashing – Part II ([Slides](https://drive.google.com/open?id=0B5EQQQtU0zzpZmpqeXBrcFJSaHc))
 * 2017/11/24 – DBMS Architecture: Transactions ([Slides](https://drive.google.com/open?id=0B5EQQQtU0zzpb0JibnRBOGdvd0k), [Exercises](http://jackbergus.alwaysdata.net/DB2016_2017/AdditionalTransaction_print.pdf))
 * 2017/12/01 – The Lab Sessions: Conceptual Data Modelling
