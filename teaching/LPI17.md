@@ -14,15 +14,17 @@ Main Lecturer: prof. Ferretti
 The screencast will be broadcasted live using [this]( http://130.136.143.13:8080/view-stream.html) web page.
 
 *  2017/10/10: *Introductory Lesson* [1,5H x2]
-   * [How to use your lab? (IT)](https://github.com/jackbergus/LPI07/raw/master/Lesson00/LabRuleBook.pdf)
-   * [Programs](https://github.com/jackbergus/LPI07/tree/master/Lesson00) for the zero lesson, and some [introductory slides](https://github.com/jackbergus/LPI07/raw/master/Lesson00/ex00.pdf).
+   * [How to use your lab? (IT)](https://github.com/jackbergus/LPI17/raw/master/Lesson00/LabRuleBook.pdf)
+   * [Programs](https://github.com/jackbergus/LPI17/tree/master/Lesson00) for the zero lesson, and some [introductory slides](https://github.com/jackbergus/LPI17/raw/master/Lesson00/ex00.pdf).
 * 2017/10/24: *Native types, casts, String, Scanner from System.in, Math* [1,5H x2]
-   * ![New](http://www.animatedgif.net/new/new10_e0.gif) Exercises [[EN](https://github.com/jackbergus/LPI07/raw/master/Lesson01/guide.pdf),[IT](https://github.com/jackbergus/LPI07/raw/master/Lesson01/guide_it.pdf)] and the [proposed solutions](https://github.com/jackbergus/LPI07/tree/master/Lesson01). *The exercises were extended from the last lesson*
+   * ![New](http://www.animatedgif.net/new/new10_e0.gif) Exercises [[EN](https://github.com/jackbergus/LPI17/raw/master/Lesson01/guide.pdf),[IT](https://github.com/jackbergus/LPI17/raw/master/Lesson01/guide_it.pdf)] and the [proposed solutions](https://github.com/jackbergus/LPI17/tree/master/Lesson01). *The exercises were extended from the last lesson*
+* 2017/11/07: *Count-controlled (for) and Condition-controlled (while) loops* [3H]
+   * [Programs](https://github.com/jackbergus/LPI17/tree/master/Lesson02)
 
 ### Additional advanced notes
 
  * 2017/10/10: *Introductory Lesson*
-     * [Introduction to Compilers, Interpreters, and Programs (IT)](https://github.com/jackbergus/LPI07/raw/master/Lesson00/00Compilers.pdf)
+     * [Introduction to Compilers, Interpreters, and Programs (IT)](https://github.com/jackbergus/LPI17/raw/master/Lesson00/00Compilers.pdf)
  * 2017/10/24: 
      * [What is integer overflow?](https://en.wikipedia.org/wiki/Integer_overflow)
      * [What is parsing? (IT)](https://it.wikipedia.org/wiki/Parsing)
