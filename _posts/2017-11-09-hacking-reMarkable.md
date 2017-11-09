@@ -19,4 +19,4 @@ When I received my tablet, I tried to use the device's HTTP interface 10.11.99.1
 
 # Where are my documents and drawings stored?
 
-The documents, your writings and drawings are stored in this folder: `/home/root/.local/share/remarkable/xochitl/* .`. Please note that the original files are not ".png"s, but is a reMarkable binary format providing the informations of the strokes. Similarly, it seems that the pdf files are extended with separate informations concerning separate hilights and strokes performed by the user on top of the document.
+The documents, your writings and drawings are stored in this folder: `/home/root/.local/share/remarkable/xochitl/`. Please note that the original files are not ".png"s, but is a reMarkable binary format providing the informations of the strokes. Similarly, it seems that the pdf files are extended with separate informations concerning separate hilights and strokes performed by the user on top of the document.
