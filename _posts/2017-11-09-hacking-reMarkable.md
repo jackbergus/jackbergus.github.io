@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hacking your reMarkable
+title: A journey towards Hacking my reMarkable
 tags: reMarkable
 ---
 
