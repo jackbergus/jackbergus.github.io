@@ -23,7 +23,7 @@ According to this year's lessions plan, the part of installing a RDBMS and using
 * 2017/11/17 – DBMS Architecture: Indexing: Hashing – Part II ([Slides](https://drive.google.com/open?id=0B5EQQQtU0zzpZmpqeXBrcFJSaHc))
 * 2017/11/24 – DBMS Architecture: Transactions ([Slides](https://drive.google.com/open?id=0B5EQQQtU0zzpb0JibnRBOGdvd0k), [Exercises](http://jackbergus.alwaysdata.net/DB2016_2017/AdditionalTransaction_print.pdf))
 * 2017/12/01 – The Lab Sessions: Conceptual Data Modelling
-    * [A project example (ITA)](http://jackbergus.alwaysdata.net/dbexample.pdf)
+    * ![New](http://www.animatedgif.net/new/new10_e0.gif)  [A project example (ITA)](http://jackbergus.alwaysdata.net/dbexample.pdf)
 * 2016/12/15 – Final Exam: A Demo. Final Q&A
     * Some examples [[1](https://drive.google.com/open?id=0B5EQQQtU0zzpcnltc1ZXX19vX2M), [2](http://jackbergus.alwaysdata.net/DB2016_2017/export/esame_20160113.pdf)]
 
