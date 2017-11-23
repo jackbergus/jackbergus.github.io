@@ -32,6 +32,10 @@ The screencast will be broadcasted live using [this]( http://130.136.143.13:8080
      * [What is integer overflow?](https://en.wikipedia.org/wiki/Integer_overflow)
      * [What is parsing? (IT)](https://it.wikipedia.org/wiki/Parsing)
      * What is a [pairing function](http://www.cs.upc.edu/~alvarez/calculabilitat/enumerabilitat.pdf) using the [dovetailing](https://en.wikipedia.org/wiki/Dovetailing_(computer_science)) technique?
+ * *Iterations (For and While)*
+     * [What are iterations?](https://en.wikipedia.org/wiki/Iteration)
+     * [For Loop](https://en.wikipedia.org/wiki/For_loop)
+     * [While Loop](https://en.wikipedia.org/wiki/While_loop)
  * *Strings*
      * Reference Guide [(complete set of string methods)](https://docs.oracle.com/javase/9/docs/api/java/lang/String.html)
      * Some tutorials: [[1](https://www.tutorialspoint.com/java/java_strings.htm), [2](https://beginnersbook.com/2013/12/java-strings/)]
