@@ -26,13 +26,16 @@ The screencast will be broadcasted live using [this]( http://130.136.143.13:8080
 
 ### Additional advanced notes
 
- * 2017/10/10: *Introductory Lesson*
+ * *Introductory Lesson*
      * [Introduction to Compilers, Interpreters, and Programs (IT)](https://github.com/jackbergus/LPI17/raw/master/Lesson00/00Compilers.pdf)
- * 2017/10/24: 
+ * *First lesson topics*
      * [What is integer overflow?](https://en.wikipedia.org/wiki/Integer_overflow)
      * [What is parsing? (IT)](https://it.wikipedia.org/wiki/Parsing)
      * What is a [pairing function](http://www.cs.upc.edu/~alvarez/calculabilitat/enumerabilitat.pdf) using the [dovetailing](https://en.wikipedia.org/wiki/Dovetailing_(computer_science)) technique?
- * 2017/??/??: *Designing Classes*
+ * *Strings*
+     * Reference Guide [(complete set of string methods)](https://docs.oracle.com/javase/9/docs/api/java/lang/String.html)
+     * Some tutorials: [[1](https://www.tutorialspoint.com/java/java_strings.htm), [2](https://beginnersbook.com/2013/12/java-strings/)]
+ * *Designing Classes*
      * An example of [state driven programming](https://github.com/jackbergus/LucenePdfIndexer) (CSS theory is required)
 
 Main References:
