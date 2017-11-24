@@ -94,6 +94,8 @@ We can see each table schema with the command `describe`.
 
 # Accessing RBDMSs through OO Languages
 
+The source code of the tutorial that follows is going to be used is provided in https://github.com/jackbergus/java-orm-examples/tree/master/jOOQ_tutorial_2016
+
 ## JDBC
 
 Each DB framework uses JDBC as a common interface for accessing to the relational database. This means that you must add the MySQL driver for the database within your `pom.xml` file, alongside with the `jdbc` driver.
@@ -403,5 +405,5 @@ Later on we could even fetch a specific row (e.g.) by ID and then perform some u
      {% endhighlight %}
 
 #### Using a Persitency Framework in Java.  
-   1. [Tutorial](https://github.com/jackbergus/javahibernateexample/tree/master/hibernate_tutorial_2015)
+   1. [Tutorial](https://github.com/jackbergus/java-orm-examples/tree/master/hibernate_tutorial_2015)
    2. Madhusudhan Konda: *Just Hibernate* O’Reilly Media. [Online book](https://www.safaribooksonline.com/library/view/just-hibernate/9781449334369/)
