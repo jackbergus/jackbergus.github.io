@@ -21,7 +21,7 @@ The screencast will be broadcasted live using [this]( http://130.136.143.13:8080
 * *Count-controlled (for) and Condition-controlled (while) loops* 
    * [Programs](https://github.com/jackbergus/LPI17/tree/master/Lesson02)
 * *Array and matrices*
-   * [Programs](https://github.com/jackbergus/LPI17/tree/master/Lesson03)
+   * Programs [[1](https://github.com/jackbergus/LPI17/tree/master/Lesson03),[2](https://github.com/jackbergus/LPI17/tree/master/Lesson04)]
 
 
 ### Additional advanced notes
