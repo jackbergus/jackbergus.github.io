@@ -26,7 +26,3 @@ Each `lines` file starts with a string `"reMarkable lines with selections and la
 # How to crosscompile a program for reMarkable?
 
 Your reMarkable is an ARM A9 architecture. For this reason, it is sufficient to compile a program with `arm-linux-gnueabihf-gcc`. This cross compiler can be installed via the Debian/Ubuntu package "gcc-arm-linux-gnueabihf".
-
-# First attempts 
-
-Each file stored in `/home/root/.local/share/remarkable/xochitl/` contains an informat
