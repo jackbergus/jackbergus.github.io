@@ -19,8 +19,14 @@ When I received my tablet, I tried to use the device's HTTP interface 10.11.99.1
 
 # Where are my documents and drawings stored?
 
-The documents, your writings and drawings are stored in this folder: `/home/root/.local/share/remarkable/xochitl/`. Please note that the original files are not ".png"s, but is a reMarkable binary format providing the informations of the strokes. Similarly, it seems that the pdf files are extended with separate informations concerning separate hilights and strokes performed by the user on top of the document.
+The documents, your writings and drawings are stored in this folder: `/home/root/.local/share/remarkable/xochitl/`. Please note that the original files are not ".png"s, but is a reMarkable binary format providing the informations of the strokes. Similarly, it seems that the pdf files are extended with separate informations concerning separate hilights and strokes performed by the user on top of the document. In particular, all the files having the `.lines` extension contain all the informations pertaining to your drawings. 
+
+Each `lines` file starts with a string `"reMarkable lines with selections and layers"` followed by the number of the page number contained within the file.
 
 # How to crosscompile a program for reMarkable?
 
 Your reMarkable is an ARM A9 architecture. For this reason, it is sufficient to compile a program with `arm-linux-gnueabihf-gcc`. This cross compiler can be installed via the Debian/Ubuntu package "gcc-arm-linux-gnueabihf".
+
+# First attempts 
+
+Each file stored in `/home/root/.local/share/remarkable/xochitl/` contains an informat
