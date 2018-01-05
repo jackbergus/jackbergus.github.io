@@ -4,6 +4,10 @@ title: Papers
 subtitle: List of published papers
 ---
 
+# 2018
+* F. Bertini, **G. Bergami**, D. Montesi, G. Veronese, G. Marchesini and P. Pandolfi. “Predicting Frailty Condition in Elderly Using Multi-Dimensional Socio-Clinical Databases". Proceedings of the IEEE ([Smart Cities 2018](http://proceedingsoftheieee.ieee.org/upcoming-issues/smart-cities/), Upcoming Issue).
+
+
 # 2017
 * A. Petermann, G. Micale, **G. Bergami**, M. Junghanns, A. Pulvirenti, E. Rahm. "Mining and Ranking of Generalized Multi-Dimensional Frequent Subgraphs". Proceedings of the Twelfth International Conference on Digital Information Management, Fukuoka, Japan, September 2017 (ICDIM 2017).
 * **G. Bergami**, M. Magnani, D. Montesi. “[A Join Operator for Property Graphs](http://ceur-ws.org/Vol-1810/GraphQ_paper_04.pdf)”. Proceedings of Sixth International Workshop on Querying Graph Structured Data, Venice, Italy, March 2017 (GraphQ 2017). ([Web App](http://jackbergus.alwaysdata.net/joinapp/), [Slides](https://www.slideshare.net/jackbergus/a-join-operator-for-property-graphs), [Dataset](http://smartdata.cs.unibo.it/data/GRAPH/BolognaGraph2016.tar.gz))
