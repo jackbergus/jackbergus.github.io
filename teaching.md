@@ -5,7 +5,7 @@ subtitle: Teaching courses
 ---
 
 # As a Teaching Assistant
-* [Web Programming Lab, 2017 (Prof. Ferretti)](https://jackbergus.github.io/teaching/LPI17)
+* [Web Programming Lab 1, 2017 (Prof. Ferretti)](https://jackbergus.github.io/teaching/LPI17)
   * *Topics*: Native types, casts, String, Scanner from System.in, Math, Count-controlled (for) and Condition-controlled (while) loops, Array and matrices, "Driver" programs.
 * Databases: [2017](https://jackbergus.github.io/teaching/BD#lab-sessions-2017), [2016](https://jackbergus.github.io/teaching/BD#lab-sessions-2016) (Prof. Montesi)
   * *Topics*: Relational Algebra,  SQL query language. DBMS Architecture: Query Plans, B+ Trees, Hashing, Transactions. Conceptual Data Modelling. RDBMS vs. Querying and Programming Languages.
