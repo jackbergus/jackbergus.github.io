@@ -23,8 +23,10 @@ The screencast will be broadcasted live using [this]( http://130.136.143.13:8080
 * *Array and matrices*
    * Programs [[1](https://github.com/jackbergus/LPI17/tree/master/Lesson03),[2](https://github.com/jackbergus/LPI17/tree/master/Lesson04)]
 * *["Driver" program](https://github.com/jackbergus/LPI17/tree/master/Lesson04) for array and matrices operations*
-* * *Recaps*
+  *  *Recaps*
    * Programs [[1](https://github.com/jackbergus/LPI17/tree/master/Lesson05),[2](https://github.com/jackbergus/LPI17/tree/master/Lesson06)]
+* *[Recursion](https://github.com/jackbergus/LPI17/tree/master/Lesson07)*
+   
 
 ### Additional advanced notes
 
@@ -41,6 +43,9 @@ The screencast will be broadcasted live using [this]( http://130.136.143.13:8080
  * *Strings*
      * Reference Guide [(complete set of string methods)](https://docs.oracle.com/javase/9/docs/api/java/lang/String.html)
      * Some tutorials: [[1](https://www.tutorialspoint.com/java/java_strings.htm), [2](https://beginnersbook.com/2013/12/java-strings/)]
+ * *Recursion*
+     * [What](https://it.wikipedia.org/wiki/Algoritmo_ricorsivo) is recursion?
+     * How to [correctly use](https://en.wikipedia.org/wiki/Structural_induction) recursion?
  * *Designing Classes*
      * An example of [state driven programming](https://github.com/jackbergus/LucenePdfIndexer) (CSS theory is required)
 
