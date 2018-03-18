@@ -327,3 +327,4 @@ try (LuceneStateMachine state = new LuceneStateMachine(new File("/Users/vasistas
    }
 //Closing the object automatically at the end of the code block: Java7
 ```
+You can find the full source code for this project at https://github.com/jackbergus/LucenePdfIndexer
