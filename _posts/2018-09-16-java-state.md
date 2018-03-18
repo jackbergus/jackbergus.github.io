@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Process algebra and StateCharts
-tags: java programming, statecharts, CSS
+tags: java programming statecharts CSS
 ---
 
 If we want to model an access to a resource that could not be read and written at the same time, we could use either process algebra or State Charts from UML analysis. In either cases the desired object is an element that could perform both read and write operations, without changing the type of the element or to remember to close and re-open the object in a different state. 
