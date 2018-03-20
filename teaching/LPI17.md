@@ -48,6 +48,7 @@ The screencast will be broadcasted live using [this]( http://130.136.143.13:8080
  * *Recursion*
      * [What](https://it.wikipedia.org/wiki/Algoritmo_ricorsivo) is recursion?
      * How to [correctly use](https://en.wikipedia.org/wiki/Structural_induction) recursion?
+     * A tutorial on recursion ([IT](https://github.com/jackbergus/LPI17/blob/master/Lesson07/tutorial/tutorial.pdf))
  * *Designing Classes*
      * An example of [state driven programming](https://github.com/jackbergus/LucenePdfIndexer) (CSS theory is required)
 
