@@ -27,7 +27,7 @@ The screencast will be broadcasted live using [this]( http://130.136.143.13:8080
    * Programs [[1](https://github.com/jackbergus/LPI17/tree/master/Lesson05),[2](https://github.com/jackbergus/LPI17/tree/master/Lesson06)]
 * *[Recursion (1)](https://github.com/jackbergus/LPI17/tree/master/Lesson07)*
 * *[Recursion (2) and designing classes. ArrayLists (1)](https://github.com/jackbergus/LPI17/tree/master/Lesson08)*
-* *[File IO. ArrayLists (2)](https://github.com/jackbergus/LPI17/tree/master/Lesson09)
+* *[File IO. ArrayLists (2)](https://github.com/jackbergus/LPI17/tree/master/Lesson09)*
    
 
 ### Additional advanced notes
