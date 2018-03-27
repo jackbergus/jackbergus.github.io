@@ -28,6 +28,8 @@ The screencast will be broadcasted live using [this]( http://130.136.143.13:8080
 * *[Recursion (1)](https://github.com/jackbergus/LPI17/tree/master/Lesson07)*
 * *[Recursion (2) and designing classes. ArrayLists (1)](https://github.com/jackbergus/LPI17/tree/master/Lesson08)*
 * *[File IO. ArrayLists (2)](https://github.com/jackbergus/LPI17/tree/master/Lesson09)*
+* *[Practical on the exam](https://github.com/jackbergus/LPI17/tree/master/Lesson10)*
+* *[Suggested Exercises](https://github.com/jackbergus/LPI17/tree/master/LessonXY)*
    
 
 ### Additional advanced notes
