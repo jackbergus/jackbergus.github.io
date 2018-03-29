@@ -5,7 +5,7 @@ subtitle: List of published papers
 ---
 
 # 2018
-* F. Bertini, **G. Bergami**, D. Montesi, G. Veronese, G. Marchesini and P. Pandolfi. “[Predicting Frailty Condition in Elderly Using Multi-Dimensional Socio-Clinical Databases](http://ieeexplore.ieee.org/document/8280555/)". Proceedings of the IEEE PP(99):1-15 ([Smart Cities 2018](http://proceedingsoftheieee.ieee.org/upcoming-issues/smart-cities/)).
+* F. Bertini, **G. Bergami**, D. Montesi, G. Veronese, G. Marchesini and P. Pandolfi. “[Predicting Frailty Condition in Elderly Using Multi-Dimensional Socio-Clinical Databases](http://ieeexplore.ieee.org/document/8280555/)". Proceedings of the IEEE 106(4):723-737 ([Smart Cities 2018](http://proceedingsoftheieee.ieee.org/upcoming-issues/smart-cities/)).
 
 
 # 2017
