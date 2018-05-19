@@ -3,6 +3,15 @@
     <div class="row">
       <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
         <ul class="list-inline text-center footer-links">
+          {% if site.author.researchgate %}
+          <li>
+            <a href="https://www.researchgate.net/profile/{{ site.author.researchgate }}" title="ResearchGate">
+              <div class="col-2 center ai-case">
+		      <i class="ai ai-researchgate ai-4x"></i>
+    </div>
+            </a>
+          </li>
+          {% endif %}
           {% if site.author.facebook and site.footer-links-active.facebook %}
           <li>
             <a href="https://www.facebook.com/{{ site.author.facebook }}" title="Facebook">
