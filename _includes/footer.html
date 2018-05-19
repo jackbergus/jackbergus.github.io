@@ -21,6 +21,15 @@
             </a>
           </li>
           {% endif %}
+		{% if site.author.dblp %}
+          <li>
+            <a href="http://dblp.uni-trier.de/{{ site.author.dblp }}" title="dblp">
+              <div class="col-2 center ai-case">
+		      <i class="ai ai-dblp ai-4x"></i>
+    </div>
+            </a>
+          </li>
+          {% endif %}
 	      </ul><ul class="list-inline text-center footer-links">
           {% if site.author.facebook and site.footer-links-active.facebook %}
           <li>
