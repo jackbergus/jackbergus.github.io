@@ -4,6 +4,8 @@ title: About me
 subtitle: Bio & stuff
 ---
 
+My full name's [pronunciation](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet) is [ˈdʒaːkomo 'be:rgami].
+
 From the 1st of November 2014 to the 1st of November 2017, I was a PhD Candidate at [Bologna University, Italy](http://www.unibo.it), [CSE Dept.](http://www.informatica.unibo.it/it), School of Sciences. Prof. Danilo Montesi was my PhD supervisor. [My PhD thesis](https://amsdottorato.unibo.it/8348/1/bergami_giacomo_tesi.pdf) focused on two novel graph operators: graph joins (for combining data) and graph nesting (for structural aggregations). These two operators were inserted in a broader data integration scenario.
 
 I received my Bachelor Degree (110/110, summa cum Laude) from Alma Mater Studiorum, Bologna University on the 13th November, 2012. The Bachelor Thesis,  “[PjProject su Android: Uno scontro su più livelli](http://amslaurea.unibo.it/4441/1/bergami_giacomo_tesi.pdf)” (en. PjProject on Android: a clash on multiple layers), was supervised by prof. [Vittorio Ghini](http://www.cs.unibo.it/~ghini/); it addressed a feasibility study on porting native Linux applications using the [pjsip stack](http://www.pjsip.org/) on Android: in order to check that, I had to study the whole interaction between Java application and native libraries through the so-called [Android Middleware (AOSP)](https://source.android.com/source/).
