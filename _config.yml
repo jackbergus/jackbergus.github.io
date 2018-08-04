@@ -17,7 +17,7 @@ baseurl: ""
 title: Giacomo Bergami
 
 # Short description of your site
-description: Yet another Ph.D. student website
+description: Yet another PostDoc Researcher website
 
 # --- Navigation bar options --- #
 
@@ -30,7 +30,7 @@ navbar-links:
     - Theses & Dissertation: "theses/"
     - Papers: "papers/"
 #    - My Photos: "http://jackbergus.alwaysdata.net/cgi-bin/hello.py?path=/home/jackbergus/www/photos"
-  Official Home: "https://www.unibo.it/sitoweb/giacomo.bergami2"
+#  Official Home: "https://www.unibo.it/sitoweb/giacomo.bergami2"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -42,7 +42,7 @@ avatar: "/img/14449726_1113304668755185_9079211159784473578_n.jpg"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Giacomo Bergami
-  email: "giacomo.bergami2@unibo.it"
+  email: "gbergami@ufl.edu"
   #facebook: yourname  # eg. daattali
   github: jackbergus    # eg. daattali
   twitter: gyankos   # eg. daattali
