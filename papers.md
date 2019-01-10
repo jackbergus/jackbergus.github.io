@@ -6,7 +6,7 @@ subtitle: List of published papers
 
 # 2018
 * **G. Bergami**, A. Petermann, D. Montesi. “[THoSP: an Algorithm for Nesting Property Graphs](https://dl.acm.org/citation.cfm?id=3210267)". In GRADES-NDA’18 : 1st Joint International Workshop on Graph Data Management Experiences Systems (GRADES) and Network Data Analytics (NDA), June 10–15, 2018, Houston, TX, USA. ([Dataset](https://drive.google.com/open?id=1ielgqlCd6z37NLmyJq1ysS-ZowG4CaN2), **[Source Code](https://bitbucket.org/unibogb/graphnestingc/src)**)
-* **G.Bergami**. [A new Nested Graph Model for Data Integration, [PhD Dissertation thesis]](https://jackbergus.github.io/theses/), Alma Mater Studiorum Università di Bologna. Dottorato di ricerca in Computer science and engineering (2018), XXX Ciclo. 
+* **G.Bergami**. “[A new Nested Graph Model for Data Integration, [PhD Dissertation thesis]](https://jackbergus.github.io/theses/)", Alma Mater Studiorum Università di Bologna. Dottorato di ricerca in Computer science and engineering (2018), XXX Ciclo. 
 * F. Bertini, **G. Bergami**, D. Montesi, G. Veronese, G. Marchesini and P. Pandolfi. “[Predicting Frailty Condition in Elderly Using Multi-Dimensional Socio-Clinical Databases](http://ieeexplore.ieee.org/document/8280555/)". Proceedings of the IEEE 106(4):723-737 (Smart Cities 2018: [1](http://proceedingsoftheieee.ieee.org/view-recent-issues/april-2018/), [2](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=8326750)).
 
 
