@@ -5,7 +5,7 @@ subtitle: List of published papers
 ---
 
 # 2019
-
+* **G. Bergami**, D. Montesi. “On Joining Graphs". Under Review.
 
 # 2018
 * **G. Bergami**, A. Petermann, D. Montesi. “[THoSP: an Algorithm for Nesting Property Graphs](https://dl.acm.org/citation.cfm?id=3210267)". In GRADES-NDA’18 : 1st Joint International Workshop on Graph Data Management Experiences Systems (GRADES) and Network Data Analytics (NDA), June 10–15, 2018, Houston, TX, USA. ([Dataset](https://drive.google.com/open?id=1ielgqlCd6z37NLmyJq1ysS-ZowG4CaN2), **[Source Code](https://bitbucket.org/unibogb/graphnestingc/src)**)
