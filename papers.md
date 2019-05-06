@@ -5,6 +5,7 @@ subtitle: List of published papers
 ---
 
 # 2019
+* **G. Bergami**, F. Bertini, D. Montesi. “On Approximate Nesting of Multiple Social Network Graphs: a preliminary study". (*forthcoming*).
 * **G. Bergami**, D. Montesi. “On Joining Graphs". Under Review.
 
 # 2018
