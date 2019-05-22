@@ -6,7 +6,7 @@ subtitle: List of published papers
 
 # 2019
 * **G. Bergami**, Flavio Bertini, and Danilo Montesi. “On Approximate Nesting of Multiple Social Network Graphs: a preliminary study". In 23rd International Database Engineering & Applications Symposium (IDEAS’19),
-June 10–12, 2019, Athens, Greece. ACM, New York, NY, USA. **[Source Code])(https://github.com/jackbergus/FHoSP/)**
+June 10–12, 2019, Athens, Greece. ACM, New York, NY, USA. **[Source Code](https://github.com/jackbergus/FHoSP/)**
 * **G. Bergami**, D. Montesi. “On Joining Graphs". Under Review.
 
 # 2018
