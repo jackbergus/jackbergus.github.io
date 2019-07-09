@@ -13,7 +13,7 @@ According to this year's lessions plan, the part of installing a RDBMS and using
 * Lesson 2:
      1. Relational Algebra: [Additional Exercises (IT)](http://jackbergus.alwaysdata.net/DB2016_2017/Ex02_2017.pdf), Q&A. 
      2. **DBMS Architecture - Query Plans** ([Slides](https://drive.google.com/open?id=0B5EQQQtU0zzpRC1yT1plb2RCWFk))
-         * Jens Dittrich – Patterns in Data Management [[Book](https://infosys.uni-saarland.de/datenbankenlernen/Patterns_In_Data_Management_Preview.pdf), [Slides+Video](https://www.youtube.com/user/jensdit/playlists?shelf_id=12&sort=dd&view=50)]
+         * Jens Dittrich – Patterns in Data Management [[Book](https://bigdata.uni-saarland.de/datenbankenlernen/book.pdf), [Slides+Video](https://www.youtube.com/user/jensdit/playlists?shelf_id=12&sort=dd&view=50)]
          * Jan Van den Bussche, Stijn Vansummeren: *Translating SQL into the Relational Algebra*. [[report](http://cs.ulb.ac.be/public/_media/teaching/infoh417/sql2alg_eng.pdf), [slides](http://cs.ulb.ac.be/public/_media/teaching/infoh417/01_-_sql2alg-sol-slides.pdf)]
      3. **SQL-3 query language** ([Slides](https://drive.google.com/open?id=0B5EQQQtU0zzpOFNjVXRNQTI5V2s))
          * Ulf Leser, Felix Naumann: *Informationsintegration* (DE). dpunkt.verlag. This book contains several ideas on how to use SQL syntax to perform data integration tasks.
