@@ -42,7 +42,7 @@ avatar: "/img/62444473_2247682428650731_1684467713721761792_n.jpg"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Giacomo Bergami
-  email: "gbergami@ufl.edu"
+  email: "bergamigiacomo@gmail.com"
   #facebook: yourname  # eg. daattali
   github: jackbergus    # eg. daattali
   twitter: gyankos   # eg. daattali
@@ -57,6 +57,8 @@ author:
   researchgate: Giacomo_Bergami
   orcid: 0000-0002-1844-0851
   dblp: pers/hd/b/Bergami:Giacomo
+  publons: researcher/3017770/giacomo-bergami/
+
 
 # Select which links to show in the footer
 footer-links-active:
