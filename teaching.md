@@ -4,6 +4,13 @@ title: Teaching Duties
 subtitle: Teaching courses
 ---
 
+# As a Lecturer
+* [Big-O Notation](https://raw.githubusercontent.com/jackbergus/NotesOnProgramming2020/master/slides/01bigo.pdf)
+  * Topics: 
+    a. Recursive Fibonacci, Bachmann–Landau notation, Binet's Formula, Evaluating computational complexity by induction, Caching and Memoization, Linear Recurrences' Theorem. 
+    b. Master Theorem, Cache-Aware Trees, VP-Trees. 
+  * [Source code](https://github.com/jackbergus/NotesOnProgramming2020/tree/master/src/big_o_notation)
+
 # As a Teaching Assistant
 * [Web Programming Lab 1, 2017 (Prof. Ferretti)](https://jackbergus.github.io/teaching/LPI17)
   * *Topics*: Native types, casts, String, Scanner from System.in, Math, Count-controlled (for) and Condition-controlled (while) loops, Array and matrices, "Driver" programs.
