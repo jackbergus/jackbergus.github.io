@@ -5,11 +5,11 @@ subtitle: Teaching courses
 ---
 
 # As a Lecturer
-* [Big-O Notation (2020)](https://raw.githubusercontent.com/jackbergus/NotesOnProgramming2020/master/slides/01bigo.pdf)
+* [Big-O Notation (2020)](https://github.com/jackbergus/NotesOnProgramming2020/blob/master/slides/01bigo_handouts.pdf) 
   * Topics: 
     a. Recursive Fibonacci, Bachmann–Landau notation, Binet's Formula, Evaluating computational complexity by induction, Caching and Memoization, Linear Recurrences' Theorem. 
     b. Master Theorem, Cache-Aware Trees, VP-Trees. 
-  * [Source code](https://github.com/jackbergus/NotesOnProgramming2020/tree/master/src/big_o_notation)
+  * [Slides](https://raw.githubusercontent.com/jackbergus/NotesOnProgramming2020/master/slides/01bigo.pdf), [Source code](https://github.com/jackbergus/NotesOnProgramming2020/tree/master/src/big_o_notation)
 
 # As a Teaching Assistant
 * [Web Programming Lab 1, 2017 (Prof. Ferretti)](https://jackbergus.github.io/teaching/LPI17)
