@@ -4,9 +4,14 @@ title: Papers
 subtitle: List of published papers
 ---
 
-# 2019
+# 2020
 
 * **G. Bergami**, F. Bertini and D. Montesi. “On Joining Graphs". Under Review.
+
+
+# 2019
+
+* **G. Bergami**. “A framework supporting imprecise queries and data". Corr ArXiv.
 * **G. Bergami**, F. Bertini and D. Montesi. “[On Approximate Nesting of Multiple Social Network Graphs: a preliminary study](https://dl.acm.org/citation.cfm?id=3331081)". In 23rd International Database Engineering & Applications Symposium ([IDEAS’19](http://confsys.encs.concordia.ca/IDEAS/ideas19/IDEAS2019-Program.pdf)),
 June 10–12, 2019, Athens, Greece. ACM, New York, NY, USA. ([Dataset](https://drive.google.com/open?id=1KUp7mFoKSaxSm2yuqnxASlQlwpZSLEz5), **[Source Code](https://github.com/jackbergus/FHoSP/)**, [Slides](https://www.researchgate.net/publication/333672297_FHoSP_Slides_2019))
 
@@ -23,4 +28,4 @@ June 10–12, 2019, Athens, Greece. ACM, New York, NY, USA. ([Dataset](https://d
 
 # 2016
 * F. Bertini, **G. Bergami**, D. Montesi and P. Pandolfi. “[Predicting frailty in elderly people using socio-clinical databases](https://www.siam.org/meetings/sdm16/SDMDMMH.pdf)”. In 5th Workshop on Data Mining for Medicine and Healthcare, 2015. ([Web App](http://jackbergus.alwaysdata.net/calc/index.html))
-* **G. Bergami**, M. Magnani and D. Montesi. 2016. “[On Joining Graphs](https://arxiv.org/abs/1608.05594)”. CoRR abs/1608.05594 (2016) (**[Source Code](https://bitbucket.org/unibogb/databasemappings/src/graphq2017/draft_java/)**).
+* **G. Bergami**, M. Magnani and D. Montesi. “[On Joining Graphs](https://arxiv.org/abs/1608.05594)”. CoRR abs/1608.05594 (2016) (**[Source Code](https://bitbucket.org/unibogb/databasemappings/src/graphq2017/draft_java/)**).
