@@ -11,7 +11,7 @@ subtitle: List of published papers
 
 # 2019
 
-* **G. Bergami**. “A framework supporting imprecise queries and data". Corr ArXiv.
+* **G. Bergami**. “[A framework supporting imprecise queries and data](https://arxiv.org/abs/1912.12531)". CoRR abs/1912.12531
 * **G. Bergami**, F. Bertini and D. Montesi. “[On Approximate Nesting of Multiple Social Network Graphs: a preliminary study](https://dl.acm.org/citation.cfm?id=3331081)". In 23rd International Database Engineering & Applications Symposium ([IDEAS’19](http://confsys.encs.concordia.ca/IDEAS/ideas19/IDEAS2019-Program.pdf)),
 June 10–12, 2019, Athens, Greece. ACM, New York, NY, USA. ([Dataset](https://drive.google.com/open?id=1KUp7mFoKSaxSm2yuqnxASlQlwpZSLEz5), **[Source Code](https://github.com/jackbergus/FHoSP/)**, [Slides](https://www.researchgate.net/publication/333672297_FHoSP_Slides_2019))
 
