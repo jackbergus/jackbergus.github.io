@@ -6,7 +6,7 @@ subtitle: List of published papers
 
 # 2020
 
-* **G. Bergami**, F. Bertini and D. Montesi. “On Joining Graphs". Under Review.
+* “On Joining Graphs". Under Review.
 
 
 # 2019
