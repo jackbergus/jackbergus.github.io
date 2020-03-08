@@ -25,7 +25,7 @@ description: Yet another PostDoc Researcher website
 navbar-links:
   About Me: "aboutme"
   Resources & Papers:
-    - Teaching Assistant Duties: "teaching/"
+    - Teaching Duties: "teaching/"
     - Projects: "projects/"
     - Theses & Dissertation: "theses/"
     - Papers: "papers/"
