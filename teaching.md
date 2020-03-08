@@ -9,8 +9,8 @@ subtitle: Teaching courses
 * **In-Silico Learning (2020)**
 
   * *Introduction*: Storiographic introduction to learning and logic [[Slides](https://github.com/jackbergus/NotesOnProgramming2020/blob/master/slides/03a-artintro-handout.pdf)] Introduction to a theory of Learning for comparing Machine Learning algorithms with Data Mining ones [[Comments](https://github.com/jackbergus/NotesOnProgramming2020/blob/master/slides/03a-learning.pdf)].
- * *Machine Learning*: Multilayer Neural Networks, Decision Trees and ν-Support Vector Machines. [Comments](https://github.com/jackbergus/NotesOnProgramming2020/blob/master/slides/03b-ML.pdf), [Code](https://github.com/jackbergus/NotesOnProgramming2020/blob/master/src/ai/learning.cpp)
- * *Data Mining*: FPGrowth and Frequent Rule Mining. [Slides](https://github.com/jackbergus/NotesOnProgramming2020/blob/master/slides/03c-DM-handout.pdf), [Code](https://github.com/jackbergus/NotesOnProgramming2020/blob/master/src/dm/data_mining.cpp).
+  * *Machine Learning*: Multilayer Neural Networks, Decision Trees and ν-Support Vector Machines. [Comments](https://github.com/jackbergus/NotesOnProgramming2020/blob/master/slides/03b-ML.pdf), [Code](https://github.com/jackbergus/NotesOnProgramming2020/blob/master/src/ai/learning.cpp)
+  * *Data Mining*: FPGrowth and Frequent Rule Mining. [Slides](https://github.com/jackbergus/NotesOnProgramming2020/blob/master/slides/03c-DM-handout.pdf), [Code](https://github.com/jackbergus/NotesOnProgramming2020/blob/master/src/dm/data_mining.cpp).
 
 
 * [Numerically Stable Collision Detection (2020)](https://github.com/jackbergus/NotesOnProgramming2020/blob/master/slides/02numeric_handouts.pdf) 
