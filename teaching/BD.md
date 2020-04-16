@@ -22,7 +22,7 @@ According to this year's lessions plan, the part of installing a RDBMS and using
      2. **DBMS Architecture: Indexing: B+ Trees** ([Slides](https://drive.google.com/open?id=0B5EQQQtU0zzpbVZ3elFsLThyRFk))
          * For a BTree application in a modern Key-Value architecture, see [RocksDB](http://rocksdb.org/)
 * DBMS Architecture: Indexing: Hashing – Part II ([Slides](https://drive.google.com/open?id=0B5EQQQtU0zzpZmpqeXBrcFJSaHc))
-* DBMS Architecture: Transactions ([Slides](https://drive.google.com/open?id=0B5EQQQtU0zzpb0JibnRBOGdvd0k), [Exercises](http://jackbergus.alwaysdata.net/DB2016_2017/AdditionalTransaction_print.pdf))
+* DBMS Architecture: Transactions ([Slides](https://drive.google.com/open?id=0B5EQQQtU0zzpb0JibnRBOGdvd0k), [Exercises](https://drive.google.com/open?id=1L-My4NhgZnmQa0VDfl2INseJlufYUsay))
 * The Lab Sessions: Conceptual Data Modelling
     * ![New](http://www.animatedgif.net/new/new10_e0.gif)  [A project example (ITA)](http://jackbergus.alwaysdata.net/dbexample.pdf)
 * Final Exam: A Demo. Final Q&A
