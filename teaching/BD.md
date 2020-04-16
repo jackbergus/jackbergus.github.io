@@ -18,7 +18,7 @@ According to this year's lessions plan, the part of installing a RDBMS and using
      3. **SQL-3 query language** ([Slides](https://drive.google.com/open?id=0B5EQQQtU0zzpOFNjVXRNQTI5V2s))
          * Ulf Leser, Felix Naumann: *Informationsintegration* (DE). dpunkt.verlag. This book contains several ideas on how to use SQL syntax to perform data integration tasks.
 * Lesson 3: 
-     1. SQL-3 query language: [Additional Exercises](http://jackbergus.alwaysdata.net/DB2016_2017/EX02-bis.pdf) and [Join Algorithms](http://jackbergus.alwaysdata.net/DB2016_2017/EX03-bis.pdf)
+     1. SQL-3 query language: [Additional Exercises](https://drive.google.com/open?id=1rQNhvggJkKwpINi_BjUtPMRHh7fq5QHT) and [Join Algorithms](https://drive.google.com/open?id=1N1anfuJAM9bTwSG993nLESfwF8JunPjB)
      2. **DBMS Architecture: Indexing: B+ Trees** ([Slides](https://drive.google.com/open?id=0B5EQQQtU0zzpbVZ3elFsLThyRFk))
          * For a BTree application in a modern Key-Value architecture, see [RocksDB](http://rocksdb.org/)
 * DBMS Architecture: Indexing: Hashing – Part II ([Slides](https://drive.google.com/open?id=0B5EQQQtU0zzpZmpqeXBrcFJSaHc))
