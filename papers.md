@@ -7,9 +7,7 @@ subtitle: List of published papers
 # 2020
 
 * “On Joining Graphs". Under Review.
-
-* **G. Bergami**, F. Bertini, and D. Montesi. “Hierarchical Embedding for DAG Reachability Queries". In Proceedings of 24th Internation-
-alDatabase Engineering & Applications Symposium, Seoul, Republic of Korea, August 12–14, 2020 ([IDEAS 2020](http://confsys.encs.concordia.ca/IDEAS/ideas20/ideas20.php)).
+* **G. Bergami**, F. Bertini, and D. Montesi. “Hierarchical Embedding for DAG Reachability Queries". In Proceedings of 24th International Database Engineering & Applications Symposium, Seoul, Republic of Korea, August 12–14, 2020 ([IDEAS 2020](http://confsys.encs.concordia.ca/IDEAS/ideas20/ideas20.php)).
 
 
 # 2019
