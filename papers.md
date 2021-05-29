@@ -5,7 +5,7 @@ subtitle: List of published papers
 ---
 
 # 2021
-* **G. Bergami**, F. M. Maggi, M. Montali, and R. Peñaloza. “A Tool for Computing Probabilistic Trace Alignments". In CAiSE'21 Forum. ([**Source Code & Dataset**](github.com/jackbergus/approxProbTraceAlign), [Paper Source](https://github.com/jackbergus/ProbTraceAlignment/releases/tag/1.0))
+* **G. Bergami**, F. M. Maggi, M. Montali, and R. Peñaloza. “A Tool for Computing Probabilistic Trace Alignments". In CAiSE'21 Forum. ([**Source Code & Dataset**](https://github.com/jackbergus/approxProbTraceAlign), [Paper Source](https://github.com/jackbergus/ProbTraceAlignment/releases/tag/1.0))
 
 # 2020
 * **G. Bergami**, F. Bertini, and D. Montesi. “[Hierarchical Embedding for DAG Reachability Queries](https://dl.acm.org/doi/10.1145/3410566.3410583)". In Proceedings of 24th International Database Engineering & Applications Symposium ([IDEAS 2020](http://confsys.encs.concordia.ca/IDEAS/ideas20/ideas20.php)), Seoul, Republic of Korea, August 12–14, 2020. ACM, New York, NY, USA. ([Dataset & **Source Code**](https://github.com/gyankos/hierarchy_embedding), [Slides](https://www.researchgate.net/publication/343889450_Euclidean_Embedding_Slides))
