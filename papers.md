@@ -5,6 +5,7 @@ subtitle: List of published papers
 ---
 
 # 2021
+* **G. Bergami**. F. M. Maggi, A. Marrella, and M. Montali. “". In BPM'21. ([**Source Code & Dataset**](https://github.com/jackbergus/bpm21), [Paper Source](https://github.com/jackbergus/bpm21-dataalign/))
 * **G. Bergami**, F. M. Maggi, M. Montali, and R. Peñaloza. “A Tool for Computing Probabilistic Trace Alignments". In CAiSE'21 Forum. ([**Source Code & Dataset**](https://github.com/jackbergus/approxProbTraceAlign), [Paper Source](https://github.com/jackbergus/ProbTraceAlignment/releases/tag/1.0))
 
 # 2020
