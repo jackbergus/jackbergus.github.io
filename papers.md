@@ -9,6 +9,7 @@ subtitle: List of published papers
 * **G. Bergami**. F. M. Maggi, A. Marrella, and M. Montali. “Aligning Data-Aware Declarative Process Models and Event Logs". In [BPM'21](https://bpm2021.diag.uniroma1.it/accepted-papers/). ([**Source Code**](https://github.com/jackbergus/bpm21/releases/tag/0.9), [Paper Source & **Dataset**](https://github.com/jackbergus/bpm21-dataalign/), [Demo](https://youtu.be/TYL2nkO1dkw))
 * **G. Bergami**, F. M. Maggi, M. Montali, and R. Peñaloza. “[A Tool for Computing Probabilistic Trace Alignments](https://link.springer.com/chapter/10.1007/978-3-030-79108-7_14)". Intelligent Information Systems. CAiSE 2021. Lecture Notes in Business Information Processing, vol 424. Springer, Cham. ([**Source Code & Dataset**](https://github.com/jackbergus/approxProbTraceAlign/releases/tag/0.9), [Paper Source](https://github.com/jackbergus/ProbTraceAlignment/releases/tag/1.0))
 * **G. Bergami**. “[On Declare MAX-SAT and a finite Herbrand Base for data-aware logs](https://arxiv.org/abs/2106.07781)". CoRR abs/2106.07781
+* **G. Bergami**. “On a Logical Model for Joins over Property Graphs". Technical Report
 
 
 # 2020
