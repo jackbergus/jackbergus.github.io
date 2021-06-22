@@ -20,7 +20,7 @@ subtitle: List of published papers
 
 * **G. Bergami**. “[A framework supporting imprecise queries and data](https://arxiv.org/abs/1912.12531)". CoRR abs/1912.12531
 * **G. Bergami**, F. Bertini and D. Montesi. “[On Approximate Nesting of Multiple Social Network Graphs: a preliminary study](https://dl.acm.org/citation.cfm?id=3331081)". In 23rd International Database Engineering & Applications Symposium ([IDEAS’19](http://confsys.encs.concordia.ca/IDEAS/ideas19/IDEAS2019-Program.pdf)),
-June 10–12, 2019, Athens, Greece. ACM, New York, NY, USA. ([**Dataset**](https://drive.google.com/open?id=1KUp7mFoKSaxSm2yuqnxASlQlwpZSLEz5), **[Source Code](https://github.com/jackbergus/FHoSP/)**, [Slides](https://www.researchgate.net/publication/333672297_FHoSP_Slides_2019))
+June 10–12, 2019, Athens, Greece. ACM, New York, NY, USA. ([**Dataset**](https://osf.io/czvtb/), **[Source Code](https://github.com/jackbergus/FHoSP/)**, [Slides](https://www.researchgate.net/publication/333672297_FHoSP_Slides_2019))
 
 # 2018
 * **G. Bergami**, A. Petermann and D. Montesi. “[THoSP: an Algorithm for Nesting Property Graphs](https://dl.acm.org/citation.cfm?id=3210267)". In [GRADES-NDA’18](https://sites.google.com/site/gradesnda2018/) : 1st Joint International Workshop on Graph Data Management Experiences Systems (GRADES) and Network Data Analytics (NDA), June 10–15, 2018, Houston, TX, USA. ([**Dataset**](https://drive.google.com/open?id=1ielgqlCd6z37NLmyJq1ysS-ZowG4CaN2), **[Source Code](https://bitbucket.org/unibogb/graphnestingc/src)**, [Paper's Source Code](https://github.com/gyankos/GraphNesting), [Slides](https://www.researchgate.net/publication/325777613_Slides_THoSP_2018))
