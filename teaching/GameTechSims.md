@@ -22,7 +22,7 @@ tags: teaching
      
      II. Correlating Skills with Strategies ([Slides](https://github.com/jackbergus/NCL_CSC3232/blob/main/slides/2_b_RL.pdf))
      
-       * Study or Pary: [C++](https://github.com/jackbergus/NCL_CSC3232/blob/main/cpp/03_goap/study_party.cpp) and [C#](https://github.com/jackbergus/NCL_CSC3232/blob/main/csharp/ConsoleApp2/goap/StudyOrParty.cs)
+       * To Study or To Party?: [C++](https://github.com/jackbergus/NCL_CSC3232/blob/main/cpp/03_goap/study_party.cpp) and [C#](https://github.com/jackbergus/NCL_CSC3232/blob/main/csharp/ConsoleApp2/goap/StudyOrParty.cs)
 
 
        * Trivial RL Robot: [C++](https://github.com/jackbergus/NCL_CSC3232/blob/main/cpp/03_goap/robot.cpp)
