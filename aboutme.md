@@ -6,7 +6,7 @@ subtitle: Bio & stuff
 
 ![me @my desk!](https://raw.githubusercontent.com/jackbergus/jackbergus.github.io/master/img/20210714_190758.jpg)
 
-My full name's [pronunciation](http://ipa-reader.xyz/?text=%CB%88d%CA%92a%CB%90komo%20%CB%88be%3Argami&voice=Carla) in [IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet) is [ˈd͡ʒaːkomo ˈbe:rgami], and I am a Lecturer (Assistant Professor) at _[undisclosed]_.
+My full name's [pronunciation](http://ipa-reader.xyz/?text=%CB%88d%CA%92a%CB%90komo%20%CB%88be%3Argami&voice=Carla) in [IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet) is [ˈd͡ʒaːkomo ˈbe:rgami], and I am a Lecturer (Assistant Professor) at the Game Lab at Newcastle University.
 
 I received my Bachelor Degree (110/110, summa cum Laude) from Alma Mater Studiorum, Bologna University on the 13th November, 2012. The Bachelor Thesis,  “[PjProject su Android: Uno scontro su più livelli](http://amslaurea.unibo.it/4441/1/bergami_giacomo_tesi.pdf)” (en. PjProject on Android: a clash on multiple layers), was supervised by prof. [Vittorio Ghini](http://www.cs.unibo.it/~ghini/); it addressed a feasibility study on porting native Linux applications using the [pjsip stack](http://www.pjsip.org/) on Android: in order to check that, I had to study the whole interaction between Java application and native libraries through the so-called [Android Middleware (AOSP)](https://source.android.com/source/).
 
