@@ -28,7 +28,7 @@ As a Graduate (G), Undergraduate (U), and PhD (P) student, I developped the foll
    * (G) [SocialSim](https://github.com/jackbergus/socialsim): a dynamic (Social) Network Simulator using both agent model and event model simulation  (feat. *[Elena Tea Russo](https://it.linkedin.com/in/elenatearusso)*).
    * (U) [Amppercent7](https://github.com/jackbergus/Amppercent7): a Multi-Chat Project developed with Android SDK and Beem-Asmack library.
    * (U) [UMView with Guardian Angels](https://dl.dropboxusercontent.com/u/3529117/pxmview.tar.gz): an implenentation of the “Guardian Angels” technique inside the UMView SystemCall Virtual Machine. [More details](http://www.cs.unibo.it/~renzo/vsd/angels_n_taxi) (feat. *[Gianluca Iselli](https://it.linkedin.com/in/gianlucaiselli)* and *[Matteo Martelli](https://it.linkedin.com/in/matteo-martelli-7350867a?trk=people-guest_people_search-card)*)
-   * (U) [Orthopediatrics](https://github.com/FMP196/Orthopediatrics): an undergraduate project for the Software Engineering course. It uses Easier Java Persistence (EJP) for persistence issues. (feat. *Fabian Priftaj*, *Matej Torok* and *[Paolo de Luca](https://it.linkedin.com/in/paolo-de-luca-b07a07a5)*)
+   * (U) [Orthopediatrics](https://github.com/FMP196/Orthopediatrics): an undergraduate project for the Software Engineering course. It uses Easier Java Persistence (EJP) for persistence issues. (feat. *[Fabian Priftaj](https://github.com/FMP196)*, *Matej Torok* and *[Paolo de Luca](https://it.linkedin.com/in/paolo-de-luca-b07a07a5)*)
    * (U) [Proxy miniHTTP/miniHTML with prefetching](https://dl.dropboxusercontent.com/u/3529117/last.zip): an implementation of a multithreaded sytstem for caching purposes with time-validity checking.
 
 
