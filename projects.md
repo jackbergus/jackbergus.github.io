@@ -4,16 +4,26 @@ title: Projects
 subtitle: both as a Computer Scientist and a Programmer
 ---
 
-This page contains some projects regarding both my research duties and my personal interests.
-During my PhD Courses, I was involved in other projects, such as:
+# Research Projects
 
-   * As a visiting Ph.D. student at the Universität Leipzig, I contribute to the FOSS [Gradoop](http://www.gradoop.org) project with [my own fork](https://github.com/jackbergus/gradoop). I'll implement some graph operators.
-   * [DISeASE](http://github.com/jackbergus/DISeASE): Implementing The Watson Project from scratch for ICD-9-CM codes recognition (feat. *Alexander Pollok*) 
-   
+I am interested in very theoretical research projects having an immediate fallback in practical use case scenarios. Some of my interests are the following:
 
-# Student Projects
-As a Graduate (G) and Undergraduate (U) student, I developped the following code:
+ * **Theoretical Background**:
+   - (Relational) Database Theory (modeling, query languages)
+   - Conformance Checking and Trace Alignments
+   - Graph Theory and Query
+   - Inconsistency Metrics
+ * **Practical Use Case Scenarios**:
+   - VideoGame User Experience
+   - Recommendation Systems
 
+
+
+# Projects as a Student
+As a Graduate (G), Undergraduate (U), and PhD (P) student, I developped the following code:
+
+   * (P) As a visiting Ph.D. student at the Universität Leipzig, I contribute to the FOSS [Gradoop](http://www.gradoop.org) project with [my own fork](https://github.com/jackbergus/gradoop). I'll implement some graph operators.
+   * (P) [DISeASE](http://github.com/jackbergus/DISeASE): Implementing The Watson Project from scratch for ICD-9-CM codes recognition (feat. *Alexander Pollok*) 
    * (G) A [Jason](http://jason.sourceforge.net/)'s [extension](https://drive.google.com/file/d/0B15ik0F3-2nGS0trUWh3a1dYdVU/edit) showing the occurring communications between the agents, using [GraphStream](http://graphstream-project.org/) (feat. *Giulio Biagini* and *Gianluca Iselli*). With the same group I coded an [Omnet++ simulation](https://www.dropbox.com/s/jtj1qvxrn2zsvev/Gruppo-Bergami-Biagini-Iselli.tar.gz) implementing a P2P algorithm, using C++11 and GraphBoost Library
    * (G) [SocialSim](https://github.com/jackbergus/socialsim): a dynamic (Social) Network Simulator using both agent model and event model simulation.
    * (U) [Amppercent7](https://github.com/jackbergus/Amppercent7): a Multi-Chat Project developed with Android SDK and Beem-Asmack library (feat. *Elena Tea Russo*).
@@ -22,9 +32,9 @@ As a Graduate (G) and Undergraduate (U) student, I developped the following code
    * (U) [Proxy miniHTTP/miniHTML with prefetching](https://dl.dropboxusercontent.com/u/3529117/last.zip): an implementation of a multithreaded sytstem for caching purposes with time-validity checking.
 
 
-# Code Snippets
+## Code Snippets
 
-I wrote a lot of very short projects. Those are:
+As a student, I wrote a lot of very short projects. Those are:
 
    * Running an R-script [as a daemon](https://gist.github.com/jackbergus/800ca4f4a17af69dc840)
    * [loaderPlugin](https://github.com/jackbergus/loaderPlugin): a single-header library used in SocialSim for defining a PlugIn repository
