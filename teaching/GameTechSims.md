@@ -27,4 +27,4 @@ tags: teaching
 
        * Trivial RL Robot: [C++](https://github.com/jackbergus/NCL_CSC3232/blob/main/cpp/03_goap/robot.cpp)
      
-     III. Game Theory for Non-Cooperative Games ([Slides](https://github.com/jackbergus/NCL_CSC3232/blob/main/slides/2_c_TPCSG.pdf))
+     III. Game Theory for Non-Cooperative Games ([Slides](https://github.com/jackbergus/NCL_CSC3232/blob/main/slides/2_c_TPCSG.pdf), Code: [C#](https://github.com/jackbergus/NCL_CSC3232/blob/main/csharp/MinMaxProjects/MinMaxProjects/Program.cs))
