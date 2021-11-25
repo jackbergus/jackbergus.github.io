@@ -4,6 +4,10 @@ title: Papers
 subtitle: List of published papers
 ---
 
+# 2022
+
+* **G. Bergami**, C. Di Francescomarino, C. Ghidini, F. M. Maggi, Joonas Puura. “Exploring Business Process Deviance with Sequential and Declarative Patterns". [Preprint](https://arxiv.org/abs/2111.12454)
+
 # 2021
 * **G. Bergami**. “[On Efficiently Equi-Joining Graphs](https://doi.org/10.1145/3472163.3472269)". In Proceedings of 25th International Database Engineering & Applications Symposium ([IDEAS 2021](https://confsys.encs.concordia.ca/IDEAS/ideas21/FinalProgram-IDEAS2021.pdf)), Montreal, Canada, July 14–16, 2021. ACM, New York, NY, USA. ([**Source Code**](https://github.com/gyankos/graphjoin/releases/tag/1.0), [**Dataset**](https://osf.io/xney5/), [Slides](https://www.researchgate.net/publication/353247024_IDEAS'21_Slides))
 * **G. Bergami**, F. M. Maggi, A. Marrella, and M. Montali. “[Aligning Data-Aware Declarative Process Models and Event Logs](https://link.springer.com/chapter/10.1007%2F978-3-030-85469-0_16)". In [BPM'21](https://bpm2021.diag.uniroma1.it/program/). ([**Source Code**](https://github.com/jackbergus/bpm21/releases/tag/0.9), [Paper Source & **Dataset**](https://github.com/jackbergus/bpm21-dataalign/), [Demo](https://youtu.be/TYL2nkO1dkw), [Slides](https://www.researchgate.net/publication/354436667_BPM%2721_Slides))
