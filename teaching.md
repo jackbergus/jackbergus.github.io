@@ -8,7 +8,7 @@ subtitle: Teaching courses
 
 * **[Gaming Technologies and Simulations (2021-)](https://jackbergus.github.io/teaching/GameTechSims/)**
 
-* **Advanced Programming (Concurrent Java, 2022-)**
+* **[Advanced Programming (Concurrent Java, 2022-)](https://jackbergus.github.io/teaching/JavaConcurrent/)**
 
 * **In-Silico Learning (2020)**
   * *Introduction*: Storiographic introduction to learning and logic [[Slides](https://github.com/jackbergus/NotesOnProgramming2020/blob/master/slides/03a-artintro-handout.pdf)] Introduction to a theory of Learning for comparing Machine Learning algorithms with Data Mining ones [[Comments](https://github.com/jackbergus/NotesOnProgramming2020/blob/master/slides/03a-learning.pdf)].
