@@ -13,8 +13,8 @@ Main Lecturer: Dr Giacomo Bergami
 
 ## Codebase
 
- * [Coursework](https://github.com/jackbergus/NCL_CSC8016/tree/main/src/main/java/it/giacomobergami/CSC8016/coursework): API and [Wrong Implementation](https://github.com/jackbergus/NCL_CSC8016/tree/main/src/main/java/it/giacomobergami/CSC8016/coursework/wrong_example_test)
- * [Exercises/Examples from the Slides](https://github.com/jackbergus/NCL_CSC8016/tree/main/src/main/java/it/giacomobergami/CSC8016/examples)
+ * [Coursework (2022)](https://github.com/jackbergus/NCL_CSC8016/tree/main/src/main/java/uk/ncl/CSC8016/jackbergus/coursework): API and [Wrong Implementation](https://github.com/jackbergus/NCL_CSC8016/tree/main/src/main/java/uk/ncl/CSC8016/jackbergus/coursework/wrong_implementation)
+ * [Exercises/Examples from the Slides](https://github.com/jackbergus/NCL_CSC8016/tree/main/src/main/java/uk/ncl/CSC8016/jackbergus/slides)
 
 ## Slides
 
