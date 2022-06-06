@@ -6,7 +6,7 @@ subtitle: List of published papers
 
 # 2022
 
-* **G. Bergami**, C. Di Francescomarino, C. Ghidini, F. M. Maggi, Joonas Puura. “Exploring Business Process Deviance with Sequential and Declarative Patterns". ([Preprint](https://arxiv.org/abs/2111.12454), [Source Code](https://github.com/jackbergus/CompleteDevianceMining))
+
 
 # 2021
 * **G. Bergami**. “[On Efficiently Equi-Joining Graphs](https://doi.org/10.1145/3472163.3472269)". In Proceedings of 25th International Database Engineering & Applications Symposium ([IDEAS 2021](https://confsys.encs.concordia.ca/IDEAS/ideas21/FinalProgram-IDEAS2021.pdf)), Montreal, Canada, July 14–16, 2021. ACM, New York, NY, USA. ([**Source Code**](https://github.com/gyankos/graphjoin/releases/tag/1.0), [**Dataset**](https://osf.io/xney5/), [Slides](https://www.researchgate.net/publication/353247024_IDEAS'21_Slides))
@@ -14,6 +14,7 @@ subtitle: List of published papers
 * S. Agostinelli, **G. Bergami**, A. Fiorenza, F. M. Maggi, A. Marrella, and F. Patrizi. “[Leveraging Model Learning to Discover the Behavior of Declarative Process Models](https://ieeexplore.ieee.org/document/9576870/)". [ICPM'21](https://icpmconference.org/2021/declarative-process-discovery-with-model-learning/) ([**Source Code**](https://github.com/bpm-diag/DECMOL)).
 * **G. Bergami**, F. M. Maggi, M. Montali, and R. Peñaloza. “[Probabilistic Trace Alignments](https://ieeexplore.ieee.org/document/9576856/)". [ICPM'21](https://icpmconference.org/2021/probabilistic-trace-alignment/) ([Preprint](https://arxiv.org/abs/2107.03997), [**Source Code & Dataset**](https://github.com/jackbergus/approxProbTraceAlign/releases/tag/0.9), [Demo](https://youtu.be/aWhS7yOa0UA)).
 * **G. Bergami**, F. M. Maggi, M. Montali, and R. Peñaloza. “[A Tool for Computing Probabilistic Trace Alignments](https://link.springer.com/chapter/10.1007/978-3-030-79108-7_14)". Intelligent Information Systems. [CAiSE Forum (2) 2021 (Video)](https://youtu.be/XTcCgVsJCs0?t=1197). Lecture Notes in Business Information Processing, vol 424. Springer, Cham. ([**Source Code & Dataset**](https://github.com/jackbergus/approxProbTraceAlign/releases/tag/0.9), [Paper Source](https://github.com/jackbergus/ProbTraceAlignment/releases/tag/1.0), [Slides](https://www.researchgate.net/publication/352889355_Slides_CAiSE'21))
+* **G. Bergami**, C. Di Francescomarino, C. Ghidini, F. M. Maggi, Joonas Puura. “Exploring Business Process Deviance with Sequential and Declarative Patterns". ([Preprint](https://arxiv.org/abs/2111.12454), [Source Code](https://github.com/jackbergus/CompleteDevianceMining))
 * **G. Bergami**. “[On Declare MAX-SAT and a finite Herbrand Base for data-aware logs](https://arxiv.org/abs/2106.07781)". CoRR abs/2106.07781
 * **G. Bergami**. “[On a Logical Model for Joins over Property Graphs](https://arxiv.org/abs/2106.14766)". CoRR abs/2106.14766
 
