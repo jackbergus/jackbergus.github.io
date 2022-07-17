@@ -6,7 +6,7 @@ subtitle: List of published papers
 
 # 2022
 
-
+ * Coming Soon
 
 # 2021
 * **G. Bergami**. “[On Efficiently Equi-Joining Graphs](https://doi.org/10.1145/3472163.3472269)". In Proceedings of 25th International Database Engineering & Applications Symposium ([IDEAS 2021](https://confsys.encs.concordia.ca/IDEAS/ideas21/FinalProgram-IDEAS2021.pdf)), Montreal, Canada, July 14–16, 2021. ACM, New York, NY, USA. ([**Source Code**](https://github.com/gyankos/graphjoin/releases/tag/1.0), [**Dataset**](https://osf.io/xney5/), [Slides](https://www.researchgate.net/publication/353247024_IDEAS'21_Slides))
