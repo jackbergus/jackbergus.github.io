@@ -8,6 +8,7 @@ title: Theses & Dissertation
 
 # Supervised Dissertations
 
+ * Junlin Luo. "[Event-driven parallel hierarchical state machines for video games and the re-planning in running time](https://github.com/luojunlin1223/CSC8503/tree/CSC8599)"
  * Oliver R. Fox. "[Learning Navigation on Procedurally Generated Cities: A Reinforcement Learning Perspective](https://ofox.co.uk/projects/dissertation)" - 2022
  * Dovydas Šimoliūnas. "[Finding and Resolving Network Inconsistencies in Multiplayer Games](https://github.com/DovydasSi/TabulaRasa)" - 2022
  * Samuel Buzz Appleby. "[Develop an AI Agent Using Goal Oriented Action Planning that can Demonstrate Effective Solution Finding in Distinct World Environments](https://onedrive.live.com/download?cid=A29E1A49BE9C04CC&resid=A29E1A49BE9C04CC%2114817&authkey=ACdrWHFTJVovmVw&em=2)" - 2020
