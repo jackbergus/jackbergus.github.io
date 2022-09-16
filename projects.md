@@ -17,6 +17,9 @@ I am interested in very theoretical research projects having an immediate fallba
    - VideoGame User Experience
    - Recommendation Systems
 
+This entails the development of the following projects:
+
+* [KnoBAB](github.com/datagram-db/knobab): a fast knowledge base supporing efficient long with payloads for data-driven temporal queries.
 
 
 # Projects as a Student
