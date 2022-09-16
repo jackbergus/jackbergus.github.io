@@ -19,7 +19,7 @@ I am interested in very theoretical research projects having an immediate fallba
 
 This entails the development of the following projects:
 
-* [KnoBAB](github.com/datagram-db/knobab): a fast knowledge base supporing efficient long with payloads for data-driven temporal queries.
+* [KnoBAB](https://github.com/datagram-db/knobab): a fast knowledge base supporing efficient long with payloads for data-driven temporal queries.
 
 
 # Projects as a Student
