@@ -37,6 +37,6 @@ title: Theses & Dissertation
 
 ## (BSc) Pjproject su Android: uno scontro su più livelli 
 
-TOPIC: a feasability study of a porting of a C++ application from Linux to Android.
+> (Translated from Italian)  The steadily increasing use of computerized mobile devices pushes every developer to wonder what their practical applications might be. Consequently, knowing their potential and technical characteristics, the developer wonders if such devices can run the same programs they use daily without the need (and the desire) to reinvent the wheel. This desire, driven by practical necessity, guides such developer to choose development systems allowing them to investigate the problems and deepen their accredited solutions: For this reason, the "development platforms" that are gradually establishing themselves (if not already consolidating) are constituted from GNU / Linux and Android operating system. The second poses attractive prospects, as Android both adopts a customary fork of the Linux kernel while gaining momentum on the business world. Nevertheless, Android's developers imposed on their system some architectural limitations: these can be leveraged by hackers  - see device rooting - which, by knowing the weaknesses of GNU/Linux systems, might easily overcome some security restrictions. These still allow the enthusiast to learn more about the GNU / Linux world by analyzing the architectural differences between the two systems.
 
-[Link -- Italian](https://amslaurea.unibo.it/4441/)
+[Link -- Italian](https://amslaurea.unibo.it/4441/), [Link -- Mobile Systems Module (Italian)](http://www.cs.unibo.it/~ghini/didattica/sistemimobili/BergamiGiacomo/)
