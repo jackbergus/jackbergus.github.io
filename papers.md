@@ -4,6 +4,10 @@ title: Papers
 subtitle: List of published papers
 ---
 
+# 2023
+
+ * **G. Bergami**, S. Appleby, G. Morgan. “Quickening Data-Aware Conformance Checking through Temporal Algebras". ([Preprint](https://www.preprints.org/manuscript/202301.0254/), **[Source Code](https://github.com/datagram-db/knobab/releases/tag/v1.2)**, **[Dataset](https://osf.io/2cxr7/)**)
+
 # 2022
 
  * S. Appleby, **G. Bergami**, G. Morgan. “[Running Temporal Logical Queries on the Relational Model](https://dl.acm.org/doi/10.1145/3548785.3548786)". In International Database Engineered Applications Symposium ([IDEAS’22](https://confsys.encs.concordia.ca/IDEAS-II/ideas22/ideas22.php)), August 22–24, 2022, Budapest, Hungary. ACM, New York, NY, USA. (**[Source Code](https://github.com/datagram-db/knobab/releases/tag/v1.0)**, **[Dataset](https://osf.io/xwd3v/)**, [Paper Source](https://github.com/SamuelAppleby/IDEAS_2022), [Slides](https://www.researchgate.net/publication/363690979_presentationpptx))
