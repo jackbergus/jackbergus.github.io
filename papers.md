@@ -6,6 +6,7 @@ subtitle: List of published papers
 
 # 2023
 
+ * [TBA]
  * **G. Bergami**, S. Appleby, G. Morgan. “Quickening Data-Aware Conformance Checking through Temporal Algebras". ([Preprint](https://www.preprints.org/manuscript/202301.0254/), **[Source Code](https://github.com/datagram-db/knobab/releases/tag/v1.2)**, **[Dataset](https://osf.io/2cxr7/)**)
 
 # 2022
