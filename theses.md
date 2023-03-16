@@ -6,7 +6,15 @@ title: Theses & Dissertation
 * TOC
 {:toc}
 
+
 # Supervised Dissertations
+
+## Direct PhD Supervision 
+
+ * Rohin Callum Percy Gillgallon (2022-)
+ * Samuel Buzz Appleby (2022-)
+
+## BSc and MSc Supervision
 
  * Junlin Luo (PGT). "Event-driven parallel hierarchical state machines for video games and the re-planning in running time" [[Demo](https://m.youtube.com/watch?v=_rQdr6ZwCXE),[Codebase](https://github.com/luojunlin1223/CSC8503/tree/CSC8599)] - 2022
  * Oliver R. Fox (UG). "Learning Navigation on Procedurally Generated Cities: A Reinforcement Learning Perspective" [[Demo](https://ofox.co.uk/projects/dissertation), [Codebase](https://github.com/foxr1/navigationdissertation)] - 2022
