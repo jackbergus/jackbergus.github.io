@@ -11,7 +11,7 @@ title: Theses & Dissertation
 
 ## Direct PhD Supervision 
 
- * Rohin Callum Percy Gillgallon (2022-)
+ * Rohin Callum Percy Gillgallon (2023-)
  * Samuel Buzz Appleby (2022-)
 
 ## BSc and MSc Supervision
