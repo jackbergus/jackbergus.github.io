@@ -9,7 +9,7 @@ subtitle: List of published papers
 
  * [TBA]
  * **G. Bergami**, S. Appleby, G. Morgan. “[Quickening Data-Aware Conformance Checking through Temporal Algebras](https://www.mdpi.com/2078-2489/14/3/173)". [Information](https://www.mdpi.com/journal/information/special_issues/1D5WDEWMG5). 2023; 14(3):173. ([Preprint](https://www.preprints.org/manuscript/202301.0254/), **[Source Code](https://github.com/datagram-db/knobab/releases/tag/v1.2)**, **[Dataset](https://osf.io/2cxr7/)**)
- * **G. Bergami**. “KnoBAB: Making Logic Fast"  [AAAI 2023 Spring Symposium Series](https://ltlf-symposium.github.io/program), March 27-29, 2023, Hyatt Regency San Francisco Airport, CA, USA ([Preprint](https://www.researchgate.net/publication/368574873_KnoBAB_Making_Logic_Fast)),[Slides](https://drive.google.com/file/d/1zBJLZj_3ZVjVMrAPdxZB9JBvzSYETIEj/view?usp=sharing))
+ * **G. Bergami**. “KnoBAB: Making Logic Fast"  [AAAI 2023 Spring Symposium Series](https://ltlf-symposium.github.io/program), March 27-29, 2023, Hyatt Regency San Francisco Airport, CA, USA ([Preprint](https://www.researchgate.net/publication/368574873_KnoBAB_Making_Logic_Fast),[Slides](https://drive.google.com/file/d/1zBJLZj_3ZVjVMrAPdxZB9JBvzSYETIEj/view?usp=sharing))
 
 # 2022
 
