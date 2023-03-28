@@ -15,7 +15,7 @@ subtitle: List of published papers
 # 2022
 
  * S. Appleby, **G. Bergami**, G. Morgan. “[Running Temporal Logical Queries on the Relational Model](https://dl.acm.org/doi/10.1145/3548785.3548786)". In International Database Engineered Applications Symposium ([IDEAS’22](https://confsys.encs.concordia.ca/IDEAS-II/ideas22/ideas22.php)), August 22–24, 2022, Budapest, Hungary. ACM, New York, NY, USA. (**[Source Code](https://github.com/datagram-db/knobab/releases/tag/v1.0)**, **[Dataset](https://osf.io/xwd3v/)**, [Paper Source](https://github.com/SamuelAppleby/IDEAS_2022), [Slides](https://www.researchgate.net/publication/363690979_presentationpptx))
- * A. A. Al-Sharidah, M. Barati, **G. Bergami**, R. Ranjan. “Cloud Auto-scaling Auditing Approach using Blockchain". In 2nd International Workshop on 
+ * A. A. Al-Sharidah, M. Barati, **G. Bergami**, R. Ranjan. “[Cloud Auto-scaling Auditing Approach using Blockchain](https://ieeexplore.ieee.org/document/10061831/)" In 2nd International Workshop on 
 Blockchain for Smart Cyber-Physical Systems" ([BlockCPS'22](https://sites.google.com/view/blockcps2022)), December 6-9, 2022, Portland, Oregon, USA. IEEE, USA. 
 
 # 2021
