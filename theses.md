@@ -31,7 +31,7 @@ title: Theses & Dissertation
 
 ### Errata Corrige
 
-[TODO]
+ Please see the [GitHub](https://github.com/gyankos/PhDThesis-Latex) LaTeX repo for the latest typofix and misprints.
 
 
 ## (MSc) Hypergraph Mining for Social Networks 
