@@ -1,10 +1,6 @@
-source 'https://rubygems.org'
+# frozen_string_literal: true
 
-gem 'execjs'
-gem 'therubyracer'
-gem 'github-pages'
-gem 'jekyll-paginate'
+source "https://rubygems.org"
 
-group :jekyll_plugins do
-  gem "jekyll-youtube"
-end
+gemspec
+

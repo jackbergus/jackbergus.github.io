@@ -1,238 +1,216 @@
 <head>
-  <meta charset="utf-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
-  <meta name="google-site-verification" content="M4GEGhG8HRQMhsE1XpqCB5KI3qHZ0yVes9qox9SNOSQ" />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-  <!-- Adding academic icons -->
-  <link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
-  
-  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+  {% capture title %}
+    {%- if page.share-title -%}
+      {{ page.share-title | strip_html | xml_escape }}
+    {%- elsif page.title -%}
+      {{ page.title | strip_html | xml_escape  }}
+    {%- else -%}
+      {{ site.title | strip_html | xml_escape }}
+    {%- endif -%}
+  {% endcapture %}
 
-  <meta name="author" content="{{ site.author.name }}" />
-  
-  {% if page.subtitle %}
-  <meta name="description" content="{{ page.subtitle }}">
+  {% capture description %}
+    {%- if page.share-description -%}
+      {{ page.share-description | strip_html | xml_escape }}
+    {%- elsif page.subtitle -%}
+      {{ page.subtitle | strip_html | xml_escape }}
+    {%- else -%}
+      {%- assign excerpt_length = site.excerpt_length | default: 50 -%}
+      {{ page.content | strip_html | xml_escape | truncatewords: excerpt_length | strip }}
+    {%- endif -%}
+  {% endcapture %}
+
+  <title>{{ title }}</title>
+
+  {% if site.author %}
+  <meta name="author" content="{{ site.author }}">
   {% endif %}
 
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+  <meta name="description" content="{{ description }}">
+
+  {% if site.mobile-theme-col %}
+  <meta name="theme-color" content="{{ site.mobile-theme-col }}">
+  {% endif %}
+
+  {% if site.keywords %}
+  <meta name="keywords" content="{{ site.keywords }}">
+  {% endif %}
+
+  {% if site.rss-description %}
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | absolute_url }}">
+  {% endif %}
+
+  {% include gtag.html %}
+  {% include gtm_head.html %}
+  {% include google_analytics.html %}
+  {% include cloudflare_analytics.html %}
 
   {% if layout.common-ext-css %}
     {% for css in layout.common-ext-css %}
-      <link rel="stylesheet" href="{{ css }}" />
+      {% include ext-css.html css=css %}
     {% endfor %}
-  {% endif %}    
-  
+  {% endif %}
+
   {% if layout.common-css %}
     {% for css in layout.common-css %}
-      <link rel="stylesheet" href="{{ css | prepend: site.baseurl | replace: '//', '/' }}" />
+      <link rel="stylesheet" href="{{ css | relative_url }}">
     {% endfor %}
-  {% endif %}  
-  
-  {% if layout.common-googlefonts %}
-    {% for font in layout.common-googlefonts %}
-      <link rel="stylesheet" href="//fonts.googleapis.com/css?family={{ font }}" />
+  {% endif %}
+
+  {% if site.site-css %}
+    {% for css in site.site-css %}
+      <link rel="stylesheet" href="{{ css | relative_url }}">
     {% endfor %}
   {% endif %}
 
   {% if page.ext-css %}
     {% for css in page.ext-css %}
-      <link rel="stylesheet" href="{{ css }}" />
+      {% include ext-css.html css=css %}
     {% endfor %}
-  {% endif %}  
+  {% endif %}
   
   {% if page.css %}
     {% for css in page.css %}
-      <link rel="stylesheet" href="{{ css | prepend: site.baseurl | replace: '//', '/' }}" />
+      <link rel="stylesheet" href="{{ css | relative_url }}">
     {% endfor %}
   {% endif %}
 
-  {% if page.googlefonts %}
-    {% for font in page.googlefonts %}
-      <link rel="stylesheet" href="//fonts.googleapis.com/css?family={{ font }}" />
-    {% endfor %}
+  {% if site.fb_app_id %}
+  <meta property="fb:app_id" content="{{ site.fb_app_id }}">
   {% endif %}
 
-  <!-- Facebook OpenGraph tags -->
-  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
-  <meta property="og:type" content="website" />
+  {% if site.title %}
+  <meta property="og:site_name" content="{{ site.title }}">
+  {% endif %}
+
+  {%- capture img -%}
+    {%- if page.share-img -%}
+      {{ page.share-img }}
+    {%- elsif page.cover-img -%}
+      {%- if page.cover-img.first -%}
+        {{ page.cover-img[0].first.first }}
+      {%- else -%}
+        {{ page.cover-img }}
+      {%- endif -%}
+    {%- elsif page.thumbnail-img -%}
+      {{ page.thumbnail-img }}
+    {%- elsif site.avatar -%}
+      {{ site.avatar }}
+    {% endif %}
+  {%- endcapture -%}
+  {%- assign img=img | strip -%}
+
+  <meta property="og:title" content="{{ title }}">
+  <meta property="og:description" content="{{ description }}">
+
+  {% if img != "" %}
+  <meta property="og:image" content="{{ img | absolute_url }}">
+  {% endif %}
+
   {% if page.id %}
-  <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+  <meta property="og:type" content="article">
+  <meta property="og:article:author" content="{{ site.author }}">
+  <meta property="og:article:published_time" content="{{ page.date | date_to_xmlschema }}">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
   {% else %}
-  <meta property="og:url" content="{{ site.url }}{{ page.url | remove: '/index.html' | remove: '.html' }}" />
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{ page.url | absolute_url | strip_index }}">
+  <link rel="canonical" href="{{ page.url | absolute_url | strip_index }}">
   {% endif %}
-  {% if page.share-img %}
-  <meta property="og:image" content="{{ page.share-img }}" />
-  {% elsif site.avatar %}
-  <meta property="og:image" content="{{ site.url }}{{ site.avatar }}" />
+
+  {% if img != "" and img != site.avatar %}
+  <meta name="twitter:card" content="summary_large_image">
   {% else %}
-  <meta property="og:image" content="" />
+  <meta name="twitter:card" content="summary">
+  {% endif %}
+  <meta name="twitter:site" content="@{{ site.social-network-links.twitter }}">
+  <meta name="twitter:creator" content="@{{ site.social-network-links.twitter }}">
+
+  <meta property="twitter:title" content="{{ title }}">
+  <meta property="twitter:description" content="{{ description }}">
+
+  {% if img != "" %}
+  <meta name="twitter:image" content="{{ img | absolute_url }}">
+  {% endif %}
+
+  {% include matomo.html %}
+
+  {% if page.comments and site.staticman.repository and site.staticman.branch %}
+  <link rel="stylesheet" href="{{ "/assets/css/staticman.css" | relative_url }}">
+  {% endif %}
+
+  {% if page.head-extra %}
+    {% for file in page.head-extra %}
+      {% include {{ file }} %}
+    {% endfor %}
   {% endif %}
   
-  <!-- Twitter summary cards -->
-  <meta name="twitter:card" content="summary" />
-  <meta name="twitter:site" content="@{{ site.author.twitter }}" />
-  <meta name="twitter:creator" content="@{{ site.author.twitter }}" />
-  <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
-  <meta name="twitter:description" content="{{ page.content | strip_html | xml_escape | truncatewords: 50 }}" />
-  {% if page.share-img %}
-  <meta name="twitter:image" content="{{ page.share-img }}" />
-  {% elsif site.avatar %}
-  <meta name="twitter:image" content="{{ site.url }}{{ site.avatar }}" />
-  {% endif %}
-  
-  <script>
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  <link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
 
-    ga('create', 'UA-90945528-1', 'auto');
-    ga('send', 'pageview');
-
-  </script>
-  <script type="text/javascript" src="https://jackbergus.alwaysdata.net/mespeak.js"></script>
-  <script type="text/javascript">
-    meSpeak.loadConfig("https://jackbergus.alwaysdata.net/mespeak_config.json");
-    meSpeak.loadVoice("https://jackbergus.alwaysdata.net/it.json");
-  </script>
-  <script type="text/javascript">
-    var spoken;
-    function process() {
-      uipa = "/ˈd͡ʒaːkomo ˈbe:rgami/";
-      //translate
-      var mappings = [
-        { 'src': /^\s*\//g, 'dest': '' },
-        { 'src': /\/\s*$/g, 'dest': '' },
-
-        { 'src': /(\.)/g, 'dest': '%' },
-        { 'src': /(\u02c8)/g, 'dest': '\'' },
-        { 'src': /(\u02cc)/g, 'dest': ',' },
-        { 'src': /(\u0251)/g, 'dest': 'A:' },
-        { 'src': /(\u02d0)/g, 'dest': ':' },
-        { 'src': /(\u0251\u02d0)/g, 'dest': 'A' },
-        { 'src': /(\u0251\u0279)/g, 'dest': 'A' },
-        { 'src': /(a\u02d0)/g, 'dest': 'A' },
-
-        // feedback from formantzero via r/linguistics
-        { 'src': /(\u0329)/g, 'dest': 'r' },  
-        
-        // feedback from scharfes_s via r/linguistics
-        { 'src': /(\u027e)/g, 'dest': 't' },  
-
-        { 'src': /(\xe6)/g, 'dest': 'a' },
-        { 'src': /(a)/g, 'dest': 'a' },
-        { 'src': /(\u028c)/g, 'dest': 'V' },
-        { 'src': /(\u0252)/g, 'dest': '0' },
-        { 'src': /(\u0254)/g, 'dest': '0' },
-        { 'src': /(a\u028a)/g, 'dest': 'aU' },
-        { 'src': /(\xe6\u0254)/g, 'dest': 'aU' },
-        { 'src': /(\u0259)/g, 'dest': '@' },
-        { 'src': /(\u025a)/g, 'dest': '3' },
-        { 'src': /(\u0259\u02d0)/g, 'dest': '3:' },
-        { 'src': /(a\u026a)/g, 'dest': 'aI' },
-        { 'src': /(\u028c\u026a)/g, 'dest': 'aI' },
-        { 'src': /(\u0251e)/g, 'dest': 'aI' },
-        { 'src': /(b)/g, 'dest': 'b' },
-        { 'src': /(t\u0283)/g, 'dest': 'tS' },
-        { 'src': /(\u02a7)/g, 'dest': 'tS' },
-        { 'src': /(d)/g, 'dest': 'd' },
-        { 'src': /(\xf0)/g, 'dest': 'D' },
-        { 'src': /(\u025b)/g, 'dest': 'E' },
-        { 'src': /(e)/g, 'dest': 'E' },
-        { 'src': /(\u025d)/g, 'dest': '3:' },
-        { 'src': /(\u025c\u02d0)/g, 'dest': '3:' },
-        { 'src': /(\u025b\u0259)/g, 'dest': 'e@' },
-        { 'src': /(e)/g, 'dest': 'E' },
-        { 'src': /(\u025d)/g, 'dest': '3:' },
-        { 'src': /(\u025c\u02d0)/g, 'dest': '3:' },
-        { 'src': /(e\u026a)/g, 'dest': 'eI' },
-        { 'src': /(\xe6\u026a)/g, 'dest': 'eI' },
-        { 'src': /(f)/g, 'dest': 'f' },
-        { 'src': /(\u0261)/g, 'dest': 'g' },
-        { 'src': /(g)/g, 'dest': 'g' },
-        { 'src': /(h)/g, 'dest': 'h' },
-        { 'src': /(\u026a)/g, 'dest': 'I' },
-        { 'src': /(\u0268)/g, 'dest': 'I' },
-        { 'src': /(\u026a\u0259)/g, 'dest': 'i@' },
-        { 'src': /(\u026a\u0279)/g, 'dest': 'i@' },
-        { 'src': /(\u026a\u0279\u0259)/g, 'dest': 'i@3' },
-        { 'src': /(i)/g, 'dest': 'i:' },
-        { 'src': /(i\u02d0)/g, 'dest': 'i:' },
-        { 'src': /(d\u0292)/g, 'dest': 'dZ' },
-        { 'src': /(\u02a4)/g, 'dest': 'dZ' },
-        { 'src': /(k)/g, 'dest': 'k' },
-        { 'src': /(x)/g, 'dest': 'x' },
-        { 'src': /(l)/g, 'dest': 'l' },
-        { 'src': /(d\u026b)/g, 'dest': 'l' }, 
-        { 'src': /(m)/g, 'dest': 'm' },
-        { 'src': /(n)/g, 'dest': 'n' },
-        { 'src': /(\u014b)/g, 'dest': 'N' },
-        { 'src': /(\u0259\u028a)/g, 'dest': 'oU' },
-        { 'src': /(o)/g, 'dest': 'oU' },
-        { 'src': /(o\u028a)/g, 'dest': 'oU' },
-        { 'src': /(\u0259\u0289)/g, 'dest': 'V' },
-        { 'src': /(\u0254\u026a)/g, 'dest': 'OI' },
-        { 'src': /(o\u026a)/g, 'dest': 'OI' },
-        { 'src': /(p)/g, 'dest': 'p' },
-        { 'src': /(\u0279)/g, 'dest': 'r' },
-        { 'src': /(s)/g, 'dest': 's' },
-        { 'src': /(\u0283)/g, 'dest': 'S' },
-        { 'src': /(t)/g, 'dest': 't' },
-        { 'src': /(\u027e)/g, 'dest': 't' },
-        { 'src': /(\u03b8)/g, 'dest': 'T' },
-        { 'src': /(\u028a\u0259)/g, 'dest': 'U@' },
-        { 'src': /(\u028a\u0279)/g, 'dest': 'U@' },
-        { 'src': /(\u028a)/g, 'dest': 'U' },
-        { 'src': /(\u0289\u02d0)/g, 'dest': 'u:' },
-        { 'src': /(u\u02d0)/g, 'dest': 'u:' },
-        { 'src': /(u)/g, 'dest': 'u:' },
-        { 'src': /(\u0254\u02d0)/g, 'dest': 'O:' },
-        { 'src': /(o\u02d0)/g, 'dest': 'O:' },
-        { 'src': /(v)/g, 'dest': 'v' },
-        { 'src': /(w)/g, 'dest': 'w' },
-        { 'src': /(\u028d)/g, 'dest': 'w' },
-        { 'src': /(j)/g, 'dest': 'j' },
-        { 'src': /(z)/g, 'dest': 'z' },
-        { 'src': /(\u0292)/g, 'dest': 'Z' },
-        { 'src': /(\u0294)/g, 'dest': '?' },
-        
-        // special edits
-        { 'src': /(k\'a2n)/g, 'dest': 'k\'@n' },
-        { 'src': /(ka2n)/g, 'dest': 'k@n' },
-        { 'src': /(gg)/g, 'dest': 'g' },
-        { 'src': /(@U)/g, 'dest': 'oU' },
-        { 'src': /rr$/g, 'dest': 'r' },
-        { 'src': /3r$/g, 'dest': '3:' },
-        { 'src': /([iU]|([AO]:))@r$/g, 'dest': '$1@' },
-        { 'src': /([^e])@r/g, 'dest': '$1:3' },
-        { 'src': /e@r$/g, 'dest': 'e@' },
-        { 'src': /e@r([bdDfghklmnNprsStTvwjzZ])/g, 'dest': 'e@$1' },
-
-        // edits arising from testing
-        { 'src': /(\'k)+/g, 'dest': 'k\'' },  
-        { 'src': /(\ː)+/g, 'dest': ':' },
-        { 'src': /(\:)+/g, 'dest': ':' },      
-        { 'src': /(ᵻ)/g, 'dest': 'I' },
-        { 'src': /(ɜ)/g, 'dest': '3' },  
-        { 'src': /(ɔ)/g, 'dest': 'O' },  
-
-        // feedback from formantzero via r/linguistics
-        { 'src': /\u0361(.)/g, 'dest': '$1\'' },  
-        { 'src': /3$/g, 'dest': 'R' }
-      ];
-
-      for (var i = 0; i < mappings.length; i++) {
-        uipa = uipa.replace(mappings[i].src, mappings[i].dest);
-        //console.log(mappings[i].src + uipa);
-      }
-      console.log(uipa);
-      spoken = meSpeak.speak('[['+uipa+']]', { 'rawdata': 'mime' });
-      if (spoken == null) {
-        alert("An error occurred: speaking failed.");
-      }
-      meSpeak.play(spoken);
+  <!-- cookie consent starts here, from https://github.com/ShahnurIslam/shahnurislam.github.io/ -->
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#edeff5",
+      "text": "#838391"
+    },
+    "button": {
+      "background": "#4b81e8"
     }
-    </script>
+  },
+  "theme": "classic",
+  "position": "bottom-right",
+  "type": "opt-out",
+  "content": {
+    "message": "This website uses cookies for Google Analytics to track the number of visits to the site.",
+    "dismiss": "Accept Cookies",
+    "deny": "Decline Cookies"
+  }
+  
+  //callback hook which is supposed to fire and give option to decline
+ /* onInitialise: function (status) {
+  var type = this.options.type;
+  var didConsent = this.hasConsented();
+  if (type == 'opt-in' && didConsent) {
+    // enable cookies
+  }
+  if (type == 'opt-out' && !didConsent) {
+    // disable cookies
+  }
+},
+ 
+onStatusChange: function(status, chosenBefore) {
+  var type = this.options.type;
+  var didConsent = this.hasConsented();
+  if (type == 'opt-in' && didConsent) {
+    // enable cookies
+  }
+  if (type == 'opt-out' && !didConsent) {
+    // disable cookies
+  }
+},
+ 
+onRevokeChoice: function() {
+  var type = this.options.type;
+  if (type == 'opt-in') {
+    // disable cookies
+  }
+  if (type == 'opt-out') {
+    // enable cookies
+  }
+},
+  */
+  //end of cookie consent callback hook
+  
+  })});
+</script>
   
 </head>
