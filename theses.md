@@ -16,7 +16,11 @@ title: Theses & Dissertation
 
 ## BSc and MSc Supervision
 
+**MSc**
+ * Yaojun Gao (PGT) - "Frequent sub-graph mining for temporal graphs" [[Demo](https://www.youtube.com/watch?v=MzwVEstsJdE),[Codebase](https://github.com/gyjwork/frequent-subgraph-mining)] - 2023
  * Junlin Luo (PGT). "Event-driven parallel hierarchical state machines for video games and the re-planning in running time" [[Demo](https://m.youtube.com/watch?v=_rQdr6ZwCXE),[Codebase](https://github.com/luojunlin1223/CSC8503/tree/CSC8599)] - 2022
+
+**BSc**
  * Wiktor Zegadło (UG). "Exploring the Potential of General Semi-Structured Model for Managing and Querying Data" [[Codebase](https://github.com/datagram-db/gsm_gsql/releases/tag/WiktorUG), [Dataset](https://osf.io/pgf9h/)]- 2023
  * Samuel R. Coleman (UG). "Procedurally Generating Urban Environments for Video Games" [[Demo](https://samcoleman.itch.io/procedural-city-generator)]- 2023
  * Oliver R. Fox (UG). "Learning Navigation on Procedurally Generated Cities: A Reinforcement Learning Perspective" [[Demo](https://ofox.co.uk/projects/dissertation), [Codebase](https://github.com/foxr1/navigationdissertation)] - 2022
