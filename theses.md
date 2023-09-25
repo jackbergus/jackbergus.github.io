@@ -17,6 +17,7 @@ title: Theses & Dissertation
 ## BSc and MSc Supervision
 
 **MSc**
+ * [Simone Alicia Noble](https://www.linkedin.com/in/simone-noble/) (PGT) - "Adapting Principles of Conflict-Based Search for Multi-Agent Pathfinding in Videogames" - 2023
  * Yaojun Gao (PGT) - "Frequent sub-graph mining for temporal graphs" [[Demo](https://www.youtube.com/watch?v=MzwVEstsJdE),[Codebase](https://github.com/gyjwork/frequent-subgraph-mining)] - 2023
  * Junlin Luo (PGT). "Event-driven parallel hierarchical state machines for video games and the re-planning in running time" [[Demo](https://m.youtube.com/watch?v=_rQdr6ZwCXE),[Codebase](https://github.com/luojunlin1223/CSC8503/tree/CSC8599)] - 2022
 
