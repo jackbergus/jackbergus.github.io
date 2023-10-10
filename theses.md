@@ -11,6 +11,7 @@ title: Theses & Dissertation
 
 ## Direct PhD Supervision 
 
+ * Oliver Robert Fox (2023-)
  * Rohin Callum Percy Gillgallon (2023-)
  * Samuel Buzz Appleby (2022-)
 
