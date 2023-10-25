@@ -16,6 +16,7 @@ I am interested in very theoretical research projects having an immediate fallba
  * **Practical Use Case Scenarios**:
    - Recommendation Systems
    - Data Analytics
+   - No Neural-Network AI
 
 This entails the development of the following projects:
 
