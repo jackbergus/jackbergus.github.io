@@ -16,6 +16,7 @@ I am interested in very theoretical research projects having an immediate fallba
  * **Practical Use Case Scenarios**:
    - Recommendation Systems
    - Data Analytics
+   - Green Energy Simulators
    - Zero Model-Fitting (no Neural-Network, no Bayesian Model, no Markov Logic Network) AI
 
 This entails the development of the following projects:
