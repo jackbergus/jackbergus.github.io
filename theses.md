@@ -15,6 +15,10 @@ title: Theses & Dissertation
  * Rohin Callum Percy Gillgallon (2023-)
  * Samuel Buzz Appleby (2022-)
 
+## Indirect PhD Supervision
+
+ * Reham Al-Mutairi (2021-)
+
 ## BSc and MSc Supervision
 
 **MSc**
