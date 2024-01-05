@@ -6,7 +6,7 @@ subtitle: List of published papers
 
 # 2024
 
- **TBA**
+ * **G. Bergami** "Streamlining Temporal Formal Verification over Columnar Databases". Information. 2024. (**[Source](https://github.com/datagram-db/knobab/releases/tag/v2.3)**, **Dataset [[1](https://osf.io/6y8cv/),[2](https://osf.io/arxf8/)]**)
 
 # 2023
 
