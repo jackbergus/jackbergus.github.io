@@ -16,12 +16,13 @@ I am interested in very theoretical research projects having an immediate fallba
  * **Practical Use Case Scenarios**:
    - Recommendation Systems
    - Data Analytics
-   - Green Energy Simulators
+   - Evolutionary Microservice Architectures for/with Data Science
    - Zero Model-Fitting (no Neural-Network, no Bayesian Model, no Markov Logic Network) AI
 
 This entails the development of the following projects:
 
 * [KnoBAB](https://github.com/datagram-db/knobab): a fast knowledge base supporing efficient long with payloads for data-driven temporal queries.
+* MADS (*coming soon*)
 * [SimulatorBridger](https://github.com/jackbergus/SimulatorBridger/): a simulator bridging mobility data/simulator with Edge/Cloud communication infrastructure for SmarCity environments.
 
 
