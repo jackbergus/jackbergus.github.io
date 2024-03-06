@@ -7,6 +7,7 @@ subtitle: List of published papers
 # 2024
 
  * **G. Bergami**. “[Towards Automating Microservices Orchestration through Data-Driven Evolutionary Architectures](https://link.springer.com/article/10.1007/s11761-024-00387-x)". SOCA 18, 1-14.
+ * **G. Bergami**. “DECLARE<i>d</i>: a polytime LTL<sub>f</sub> fragment". ([Preprint](https://www.preprints.org/manuscript/202403.0286/v1))
  * **G. Bergami**. “[Streamlining Temporal Formal Verification over Columnar Databases](https://doi.org/10.3390/info15010034)". Information. 2024; 15(1):34. (**[Source](https://github.com/datagram-db/knobab/releases/tag/v2.3)**, **Dataset [[1](https://osf.io/6y8cv/),[2](https://osf.io/arxf8/)]**)
  * R. Al-Mutairi, **G. Bergami**, G. Morgan. "[Advancements and Challenges in IoT Simulators: A Comprehensive Review](https://www.mdpi.com/1424-8220/24/5/1511)". Sensors, 24(5):1511.
  *   R. Al-Mutairi, **G. Bergami**, G. Morgan. "Poster: IoTSimSecure: Towards an IoT Simulator Supporting Cyber-Threat Detection Algorithms". ICFEC 2024
