@@ -19,10 +19,12 @@ I am interested in very theoretical research projects having an immediate fallba
    - Evolutionary Microservice Architectures for/with Data Science
    - Zero Model-Fitting (no Neural-Network, no Bayesian Model, no Markov Logic Network) AI
 
-This entails the development of the following projects:
+Some of these research interests yielded OpenSouce projects:
 
 * [KnoBAB](https://github.com/datagram-db/knobab): a fast knowledge base supporing efficient long with payloads for data-driven temporal queries.
 * MADS (*coming soon*)
+* LaSSI (*coming soon*)
+* DatagramDB (*coming soon*)
 * [SimulatorBridger](https://github.com/jackbergus/SimulatorBridger/): a simulator bridging mobility data/simulator with Edge/Cloud communication infrastructure for SmarCity environments.
 
 
