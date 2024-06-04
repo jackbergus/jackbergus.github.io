@@ -10,9 +10,10 @@ subtitle: List of published papers
  * **G. Bergami**. “[DECLARE<i>d</i>: a polytime LTL<sub>f</sub> fragment](https://www.mdpi.com/2813-0405/2/2/4)". Logics. 2024; 2(2):79-111. ([Preprint](https://www.preprints.org/manuscript/202403.0286/v2), **[Source & Dataset](https://osf.io/fyb4j/)**)
  * **G. Bergami**. “[Streamlining Temporal Formal Verification over Columnar Databases](https://doi.org/10.3390/info15010034)". Information. 2024; 15(1):34. (**[Source](https://github.com/datagram-db/knobab/releases/tag/v2.3)**, **Dataset [[1](https://osf.io/6y8cv/),[2](https://osf.io/arxf8/)]**)
  * R. Al-Mutairi, **G. Bergami**, G. Morgan. "[Advancements and Challenges in IoT Simulators: A Comprehensive Review](https://www.mdpi.com/1424-8220/24/5/1511)". Sensors, 24(5):1511.
- * OR. Fox, **G. Bergami**. "Generalised Graph Grammars for Natural Language Processing". ([Preprint](https://arxiv.org/abs/2403.07481), **[Source Code](https://github.com/datagram-db/datagram-db/releases/tag/v1.0)**, **[Dataset](https://osf.io/btjqw/?view_only=f31eda86e7b04ac886734a26cd2ce43d)**)
+ *   R. Al-Mutairi, **G. Bergami**, G. Morgan. "Systematic Literature Review of VANET Simulators: Comparative Analysis, Technological Advancements, and Research Challenges". PDCS 2024
  *   R. Al-Mutairi, **G. Bergami**, G. Morgan. "Poster: IoTSimSecure: Towards an IoT Simulator Supporting Cyber-Threat Detection Algorithms". [ICFEC 2024](https://icfec2024.ontariotechu.ca/)
-
+ * OR. Fox, **G. Bergami**. "Generalised Graph Grammars for Natural Language Processing". ([Preprint](https://arxiv.org/abs/2403.07481), **[Source Code](https://github.com/datagram-db/datagram-db/releases/tag/v1.0)**, **[Dataset](https://osf.io/btjqw/?view_only=f31eda86e7b04ac886734a26cd2ce43d)**)
+ 
 # 2023
 
 
