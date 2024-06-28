@@ -32,7 +32,7 @@ subtitle: Teaching courses
   * *Topics*: Relational Algebra,  SQL query language. DBMS Architecture: Query Plans, B+ Trees, Hashing, Transactions. Conceptual Data Modelling. RDBMS vs. Querying and Programming Languages.
 * Complements of Databases, 2015 (Prof. Montesi)
   * [Business Intelligence for the 
-Data Scientist](https://bergami.alwaysdata.net/DWTutorial2016.pdf) - A tutorial on Data Warehouses
+Data Scientist](https://docs.google.com/presentation/d/1q3akVGk8mKwlTCoyaPyAkspEmW8cRUuha5gkqNEqYlM/edit?usp=sharing) - A tutorial on Data Warehouses
 * Databases, 2015 (Prof. Montesi)
   * *Topics*:  SQL query language. Conceptual Data Modelling. Querying and Programming Languages: [Hibernate](https://github.com/jackbergus/javahibernateexample/tree/master/hibernate_tutorial_2015).
 
