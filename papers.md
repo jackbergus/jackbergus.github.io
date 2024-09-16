@@ -15,6 +15,7 @@ subtitle: List of published papers
  *   **G. Bergami**, Emma Packer, Kirsty Scott, Silvia Del Din. "Predicting Dyskinetic Events through Verified Multivariate Time Series Classification". [IDEAS 2024](https://conferences.sigappfr.org/ideas2024/program/#session_2) (**[Source](https://github.com/datagram-db/knobab/releases/tag/v3.0)**, [Slides](https://www.researchgate.net/publication/383490808_Slides_IDEAS_2024a))
  *   OR. Fox, **G. Bergami**, G. Morgan. "LaSSI: Logical, Structural, and Semantic text Interpretation". [IDEAS 2024](https://conferences.sigappfr.org/ideas2024/program/#session_3)
  *   R. Al-Mutairi, R. Gillgallon, **G. Bergami**, G. Morgan. "Approximating Real-Time IoT Interaction through Connection Counting: A QoS Perspective". eHWPAS 2024
+ *   R. Gillgallon, G. Bergami, G. Morgan. "Testing Routing Strategies by Simulating the Mobile IoT Edge/Cloud Continuum". ISC2-2024
  *   R. Al-Mutairi, **G. Bergami**, G. Morgan. "Systematic Literature Review of VANET Simulators: Comparative Analysis, Technological Advancements, and Research Challenges". PCDS 2024
  *   R. Al-Mutairi, **G. Bergami**, G. Morgan. "Poster: IoTSimSecure: Towards an IoT Simulator Supporting Cyber-Threat Detection Algorithms". [ICFEC 2024](https://icfec2024.ontariotechu.ca/)
  * OR. Fox, **G. Bergami**. "Generalised Graph Grammars for Natural Language Processing". ([Preprint](https://arxiv.org/abs/2403.07481), **[Source Code](https://github.com/datagram-db/datagram-db/releases/tag/v1.0)**, **[Dataset](https://osf.io/btjqw/?view_only=f31eda86e7b04ac886734a26cd2ce43d)**)
