@@ -42,7 +42,7 @@ title: Books that I read
 * **[G. Boccaccio](https://en.wikipedia.org/wiki/Giovanni_Boccaccio). "[Decameron](https://en.wikipedia.org/wiki/The_Decameron)" (1349-1351)**
 * [N. Machiavelli](https://en.wikipedia.org/wiki/Niccol%C3%B2_Machiavelli). "[Il Principe](https://en.wikipedia.org/wiki/The_Prince)" (1532)
 * [A. Manzoni](https://en.wikipedia.org/wiki/Alessandro_Manzoni). "[I promessi sposi](https://en.wikipedia.org/wiki/The_Betrothed_(Manzoni_novel))"[^1] (1842)
-* [L. Pirandello](https://en.wikipedia.org/wiki/Luigi_Pirandello). "Suo marito" (1911)
+* [L. Pirandello](https://en.wikipedia.org/wiki/Luigi_Pirandello). "[Suo marito](https://it.wikipedia.org/wiki/Suo_marito)" (1911)
 * [Luigi Bertelli](https://en.wikipedia.org/wiki/Vamba). "[Il giornalino di Gian Burrasca](https://en.wikipedia.org/wiki/Il_Giornalino_di_Gian_Burrasca)" (1912)
 * L. Pirandello. "[Il fu Mattia Pascal](https://en.wikipedia.org/wiki/The_Late_Mattia_Pascal)" (1919)
 * L. Pirandello. "[Uno, nessuno e centomila](https://en.wikipedia.org/wiki/Uno,_Nessuno_e_Centomila)" (1926)
@@ -65,7 +65,7 @@ title: Books that I read
 
 ## Non-Fiction
 
-* [P. Paolicchi](https://www.linkedin.com/in/piero-paolicchi-1209a632/?originalSubdomain=it). "Il fattore I. Per una teoria generale dell'imbecillità" (2006)
+* [P. Paolicchi](https://www.linkedin.com/in/piero-paolicchi-1209a632/?originalSubdomain=it). "[Il fattore I. Per una teoria generale dell'imbecillità](https://le-impronte.com/prodotto/il-fattore-i-per-una-teoria-generale-dellimbecillita/)" (2006)
 * [Gianrico Carofiglio](https://en.wikipedia.org/wiki/Gianrico_Carofiglio). "La manomissione delle parole" (2010)
 * [P. Mastracola](https://it.wikipedia.org/wiki/Paola_Mastrocola). "Togliamo il disturbo. Saggio sulla libertà di non studiare" (2011)
 
@@ -102,12 +102,12 @@ title: Books that I read
 * I. Calvino. "[Il visconte dimezzato](https://en.wikipedia.org/wiki/The_Cloven_Viscount)" (1962)
 * [B. Fenoglio](https://en.wikipedia.org/wiki/Beppe_Fenoglio). "[Una questione privata](https://en.wikipedia.org/wiki/A_Private_Matter_(novel))" (1963)
 * (sl.) [B. Pahor](https://en.wikipedia.org/wiki/Boris_Pahor). "[Nekropola](https://en.wikipedia.org/wiki/Necropolis_(Pahor_novel))" (1967)
-* I. Calvino. "Orlando furioso di Ludovico Ariosto raccontato da Italo Calvino" (1970)
+* I. Calvino. "[Orlando furioso di Ludovico Ariosto raccontato da Italo Calvino](https://it.wikipedia.org/wiki/Orlando_furioso_di_Ludovico_Ariosto_raccontato_da_Italo_Calvino)" (1970)
 * (en.) [Ellis Peters](https://en.wikipedia.org/wiki/Edith_Pargeter). "[One Corpse Too Many](https://en.wikipedia.org/wiki/One_Corpse_Too_Many)" (1979)
-* [Helga Schneider](https://en.wikipedia.org/wiki/Helga_Schneider). "Il rogo di Berlino" (1995)
-* Helga Schneider. "Lasciami andare, madre" (2001)
+* [Helga Schneider](https://en.wikipedia.org/wiki/Helga_Schneider). "[Il rogo di Berlino](https://it.wikipedia.org/wiki/Il_rogo_di_Berlino)" (1995)
+* Helga Schneider. "[Lasciami andare, madre](https://it.wikipedia.org/wiki/Lasciami_andare,_madre)" (2001)
 * G. Carofiglio. "[Testimone Inconsapevole](https://en.wikipedia.org/wiki/Involuntary_Witness)" (2002)
-* [Pietro Grossi](https://it.wikipedia.org/wiki/Pietro_Grossi_(scrittore)). "Pugni" (2006)
+* [Pietro Grossi](https://it.wikipedia.org/wiki/Pietro_Grossi_(scrittore)). "[Pugni](https://it.wikipedia.org/wiki/Pugni_(racconti))" (2006)
 
 # Other Books
 
