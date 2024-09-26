@@ -14,7 +14,7 @@ subtitle: List of published papers
  *  R. Al-Mutairi, **G. Bergami**, G. Morgan. "[SimulatorBridger: System for Monitoring Energy Efficiency of Electric Vehicles in Real-World Traffic Simulations](http://dx.doi.org/10.55708/js0306004)". Journal of Engineering Research and Sciences, 3(6):33-40.
  *   **G. Bergami**, Emma Packer, Kirsty Scott, Silvia Del Din. "Predicting Dyskinetic Events through Verified Multivariate Time Series Classification". [IDEAS 2024](https://conferences.sigappfr.org/ideas2024/program/#session_2) (**[Source](https://github.com/datagram-db/knobab/releases/tag/v3.0)**, [Slides](https://www.researchgate.net/publication/383490808_Slides_IDEAS_2024a))
  *   OR. Fox, **G. Bergami**, G. Morgan. "LaSSI: Logical, Structural, and Semantic text Interpretation". [IDEAS 2024](https://conferences.sigappfr.org/ideas2024/program/#session_3)
- *   R. Al-Mutairi, R. Gillgallon, **G. Bergami**, G. Morgan. "Approximating Real-Time IoT Interaction through Connection Counting: A QoS Perspective". [eHWPAS](view-source:http://www.wimob.org/wimob2024/programme.php)
+ *   R. Al-Mutairi, R. Gillgallon, **G. Bergami**, G. Morgan. "Approximating Real-Time IoT Interaction through Connection Counting: A QoS Perspective". [eHWPAS](http://www.wimob.org/wimob2024/programme.php)
  *   R. Gillgallon, **G. Bergami**, G. Morgan. "Testing Routing Strategies by Simulating the Mobile IoT Edge/Cloud Continuum". ISC2-2024
  *   R. Al-Mutairi, **G. Bergami**, G. Morgan. "SimulatorBridgerDfT: A Real-Data Simulator for IoT-Osmotic Interactions". ICIT 2024
  *   R. Al-Mutairi, **G. Bergami**, G. Morgan. "Systematic Literature Review of VANET Simulators: Comparative Analysis, Technological Advancements, and Research Challenges". PCDS 2024
