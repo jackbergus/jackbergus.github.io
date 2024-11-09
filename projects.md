@@ -23,8 +23,8 @@ Some of these research interests yielded OpenSouce projects:
 
 * [KnoBAB](https://github.com/datagram-db/knobab): a fast knowledge base supporing efficient long with payloads for data-driven temporal queries.
 * MADS (*coming soon*)
-* LaSSI (*coming soon*)
-* DatagramDB (*coming soon*)
+* [LaSSI](https://github.com/datagram-db/LaSSI-pipeline): a Natural Language Processing pipeline for formal full-text semantics.
+* [DatagramDB](https://github.com/datagram-db/datagram-db): an object-oriented database working on cycle-free data for efficient query rewriting mechanisms.
 * [SimulatorBridger](https://github.com/jackbergus/SimulatorBridger/): a simulator bridging mobility data/simulator with Edge/Cloud communication infrastructure for SmarCity environments.
 
 
