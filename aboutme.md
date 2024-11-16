@@ -4,7 +4,7 @@ title: About me
 subtitle: Bio & stuff
 ---
 
-![me @my desk!](https://raw.githubusercontent.com/jackbergus/jackbergus.github.io/master/img/20210714_190758.jpg)
+![me standing in front of my beloved Ferrara Castle](https://raw.githubusercontent.com/jackbergus/jackbergus.github.io/master/img/20231223_120745.jpg)
 
 My full name's [pronunciation](http://ipa-reader.xyz/?text=%CB%88d%CA%92a%CB%90komo%20%CB%88be%3Argami&voice=Carla) in [IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet) is [ˈd͡ʒaːkomo ˈbe:rgami], and I am a [Lecturer (Assistant Professor) in Game Technology at Newcastle University](https://www.ncl.ac.uk/computing/staff/profile/giacomobergami.html).
 
