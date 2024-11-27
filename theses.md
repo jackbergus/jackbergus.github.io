@@ -14,10 +14,11 @@ title: Theses & Dissertation
  * Oliver Robert Fox (2023-)
  * Rohin Callum Percy Gillgallon (2023-)
  * Samuel Buzz Appleby (2022-)
+ * Reham Al-Mutairi (2021-2024) 
 
-## Indirect PhD Supervision
+### Alumni
 
- * Reham Al-Mutairi (2021-)
+ * [Reham Al-Mutairi](https://www.linkedin.com/in/reham-almutairi-849b3b139/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BO6iPinarRB2p4acjCj4d%2Fg%3D%3D) (2021-2024) "_IoT-Enhanced Vehicular Networks: Simulation Frameworks for Energy Efficiency and Cyber-Security in Smart Cities_" ⏩ University of Hafr AlBatin
 
 ## BSc and MSc Supervision
 
