@@ -14,7 +14,6 @@ title: Theses & Dissertation
  * Oliver Robert Fox (2023-)
  * Rohin Callum Percy Gillgallon (2023-)
  * Samuel Buzz Appleby (2022-)
- * Reham Al-Mutairi (2021-2024) 
 
 ### Alumni
 
