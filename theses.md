@@ -31,7 +31,7 @@ title: Theses & Dissertation
  * Samuel R. Coleman (UG). "Procedurally Generating Urban Environments for Video Games" [[Demo](https://samcoleman.itch.io/procedural-city-generator)]- 2023
  * Oliver R. Fox (UG). "Learning Navigation on Procedurally Generated Cities: A Reinforcement Learning Perspective" [[Demo](https://ofox.co.uk/projects/dissertation), [Codebase](https://github.com/foxr1/navigationdissertation)] - 2022
  * Dovydas Šimoliūnas (UG). "[Finding and Resolving Network Inconsistencies in Multiplayer Games](https://github.com/jackbergus/TabulaRasa/blob/master/00_THE%20PROJECT.pdf)" [[Codebase](https://github.com/DovydasSi/TabulaRasa)] - 2022
- * Samuel Buzz Appleby (UG). "[Develop an AI Agent Using Goal Oriented Action Planning that can Demonstrate Effective Solution Finding in Distinct World Environments](https://onedrive.live.com/download?cid=A29E1A49BE9C04CC&resid=A29E1A49BE9C04CC%2114817&authkey=ACdrWHFTJVovmVw&em=2)" - 2020
+ * Samuel B. Appleby (UG). "[Develop an AI Agent Using Goal Oriented Action Planning that can Demonstrate Effective Solution Finding in Distinct World Environments](https://onedrive.live.com/download?cid=A29E1A49BE9C04CC&resid=A29E1A49BE9C04CC%2114817&authkey=ACdrWHFTJVovmVw&em=2)" - 2020
 
 # Dissertations as a Student
 
