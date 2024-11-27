@@ -17,7 +17,7 @@ title: Theses & Dissertation
 
 ### Alumni
 
- * [Reham Al-Mutairi](https://www.uhb.edu.sa/Pages/MemberDetails.aspx?Param=college&Ref=31&Member=752) (2021-2024) "_IoT-Enhanced Vehicular Networks: Simulation Frameworks for Energy Efficiency and Cyber-Security in Smart Cities_" ⏩ University of Hafr AlBatin
+ * [Reham Al-Mutairi](https://www.linkedin.com/in/reham-almutairi-849b3b139/) (2021-2024) "_IoT-Enhanced Vehicular Networks: Simulation Frameworks for Energy Efficiency and Cyber-Security in Smart Cities_" ⏩ [University of Hafr AlBatin](https://www.uhb.edu.sa/Pages/MemberDetails.aspx?Param=college&Ref=31&Member=752)
 
 ## BSc and MSc Supervision
 
