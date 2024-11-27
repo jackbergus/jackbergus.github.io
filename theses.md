@@ -11,9 +11,9 @@ title: Theses & Dissertation
 
 ## Direct PhD Supervision 
 
- * Oliver Robert Fox (2023-)
- * Rohin Callum Percy Gillgallon (2023-)
- * Samuel Buzz Appleby (2022-)
+ * [Oliver Robert Fox](https://ofox.co.uk/) (2023-)
+ * [Rohin Callum Percy Gillgallon](https://www.researchgate.net/profile/Rohin-Gillgallon) (2023-)
+ * [Samuel Buzz Appleby](https://uk.linkedin.com/in/samuel-appleby-52a673206) (2022-)
 
 ### Alumni
 
