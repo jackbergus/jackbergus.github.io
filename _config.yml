@@ -14,7 +14,7 @@ title: Giacomo Bergami
 
 # Your name to show in the footer
 author: Giacomo Bergami
-description: «Travarsàr al mar a caval 'd 'nà pàja» Saying in old *dialèt fraréʐ*
+description: PI of the [LogDS](https://logds.github.io/) group.
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -106,7 +106,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: PI of the LogDS Team
 
 ###########################
 # --- General options --- #
