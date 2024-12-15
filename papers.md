@@ -4,6 +4,11 @@ title: Papers
 subtitle: List of published papers
 ---
 
+# 2025
+
+ * [🏆](https://conferences.sigappfr.org/ideas2024/best-papers/) **G. Bergami**, Emma Packer, Kirsty Scott, Silvia Del Din. "Predicting Dyskinetic Events through Verified Multivariate Time Series Classification". [IDEAS 2024](https://conferences.sigappfr.org/ideas2024/program/#session_2) (**[Source Code](https://github.com/datagram-db/knobab/releases/tag/v3.0)**, [Slides](https://www.researchgate.net/publication/383490808_Slides_IDEAS_2024a))
+ *   OR. Fox, **G. Bergami**, G. Morgan. "LaSSI: Logical, Structural, and Semantic text Interpretation". [IDEAS 2024](https://link.springer.com/book/9783031834714?srsltid=AfmBOoriIop7Ny9u82TcdcBgBU42mZNd2EvkcXELGs43CaMA6l9S-7Y2#back-to-top) (**[Source Code](https://github.com/datagram-db/LaSSI-pipeline/releases/tag/v1.0)**,**[Dataset](https://osf.io/czehx/)**)
+
 # 2024
 
  * **G. Bergami**. “[Towards Automating Microservices Orchestration through Data-Driven Evolutionary Architectures](https://link.springer.com/article/10.1007/s11761-024-00387-x)". SOCA 18, 1-12.
@@ -12,8 +17,6 @@ subtitle: List of published papers
  * **G. Bergami**. “[Streamlining Temporal Formal Verification over Columnar Databases](https://doi.org/10.3390/info15010034)". Information. 2024; 15(1):34. (**[Source](https://github.com/datagram-db/knobab/releases/tag/v2.3)**, **Dataset [[1](https://osf.io/6y8cv/),[2](https://osf.io/arxf8/)]**)
  * R. Al-Mutairi, **G. Bergami**, G. Morgan. "[Advancements and Challenges in IoT Simulators: A Comprehensive Review](https://www.mdpi.com/1424-8220/24/5/1511)". Sensors, 24(5):1511.
  *  R. Al-Mutairi, **G. Bergami**, G. Morgan. "[SimulatorBridger: System for Monitoring Energy Efficiency of Electric Vehicles in Real-World Traffic Simulations](http://dx.doi.org/10.55708/js0306004)". Journal of Engineering Research and Sciences, 3(6):33-40. ([Backup](https://www.researchgate.net/publication/382032965_SimulatorBridger_System_for_Monitoring_Energy_Efficiency_of_Electric_Vehicles_in_Real-World_Traffic_Simulations))
- * [🏆](https://conferences.sigappfr.org/ideas2024/best-papers/) **G. Bergami**, Emma Packer, Kirsty Scott, Silvia Del Din. "Predicting Dyskinetic Events through Verified Multivariate Time Series Classification". [IDEAS 2024](https://conferences.sigappfr.org/ideas2024/program/#session_2) (**[Source Code](https://github.com/datagram-db/knobab/releases/tag/v3.0)**, [Slides](https://www.researchgate.net/publication/383490808_Slides_IDEAS_2024a))
- *   OR. Fox, **G. Bergami**, G. Morgan. "LaSSI: Logical, Structural, and Semantic text Interpretation". [IDEAS 2024](https://conferences.sigappfr.org/ideas2024/program/#session_3) (**[Source Code](https://github.com/datagram-db/LaSSI-pipeline/releases/tag/v1.0)**,**[Dataset](https://osf.io/czehx/)**)
  * [🏆](https://www.ehpwas.org/program.html)  R. Al-Mutairi, R. Gillgallon, **G. Bergami**, G. Morgan. "Approximating Real-Time IoT Interaction through Connection Counting: A QoS Perspective". [eHWPAS](http://ehpwas.org/program.html) (**[Source Code](https://github.com/jackbergus/SimulatorBridger/releases/tag/v0.5)**)
  *   R. Gillgallon, **G. Bergami**, G. Morgan. "Testing Routing Strategies by Simulating the Mobile IoT Edge/Cloud Continuum". [ISC2-2024](https://www.isc2-2024.com/wp-content/uploads/2024/10/ISC2-2024-Program-for-website-_-Paper-List08.10.2024.pdf) (**[Source Code](https://github.com/jackbergus/SimulatorBridger/releases/tag/v0.4)**)
  *   R. Al-Mutairi, **G. Bergami**, G. Morgan. "SimulatorBridgerDfT: A Real-Data Simulator for IoT-Osmotic Interactions". ICIT 2024 (**[Source Code](https://github.com/jackbergus/SimulatorBridger/releases/tag/v0.2)**)
