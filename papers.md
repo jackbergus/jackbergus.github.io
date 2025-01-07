@@ -7,7 +7,7 @@ subtitle: List of published papers
 # 2025
 
  * [🏆](https://conferences.sigappfr.org/ideas2024/best-papers/) **G. Bergami**, Emma Packer, Kirsty Scott, Silvia Del Din. "Predicting Dyskinetic Events through Verified Multivariate Time Series Classification". [IDEAS 2024](https://conferences.sigappfr.org/ideas2024/program/#session_2) (**[Source Code](https://github.com/datagram-db/knobab/releases/tag/v3.0)**, [Slides](https://www.researchgate.net/publication/383490808_Slides_IDEAS_2024a))
- *   OR. Fox, **G. Bergami**, G. Morgan. "LaSSI: Logical, Structural, and Semantic text Interpretation". [IDEAS 2024](https://link.springer.com/book/9783031834714?srsltid=AfmBOoriIop7Ny9u82TcdcBgBU42mZNd2EvkcXELGs43CaMA6l9S-7Y2#back-to-top) (**[Source Code](https://github.com/datagram-db/LaSSI-pipeline/releases/tag/v1.0)**,**[Dataset](https://osf.io/czehx/)**)
+ *   OR. Fox, **G. Bergami**, G. Morgan. "LaSSI: Logical, Structural, and Semantic text Interpretation". [IDEAS 2024](https://link.springer.com/book/9783031834714?srsltid=AfmBOoriIop7Ny9u82TcdcBgBU42mZNd2EvkcXELGs43CaMA6l9S-7Y2#back-to-top) (**[Source Code](https://github.com/datagram-db/LaSSI-pipeline/releases/tag/v1.0)**,**[Dataset](https://osf.io/czehx/)**,[Slides](https://www.researchgate.net/publication/387787497_LaSSI_Logical_Structural_and_Semantic_text_Interpretation_IDEAS_2024_Presentation))
 
 # 2024
 
