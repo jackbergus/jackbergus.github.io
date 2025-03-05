@@ -2,6 +2,7 @@
 layout: page
 title: Papers
 subtitle: List of published papers
+redirect_to: 'https://logds.github.io/publications/'
 ---
 
 # 2025
